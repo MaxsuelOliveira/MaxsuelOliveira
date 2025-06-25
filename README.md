@@ -34,7 +34,6 @@
 
 </div>
 
-</br>
 
 <div class="content" id="stacks">
 
@@ -250,16 +249,16 @@
 
 </div>
 
-</br>
 
 <div class="content" id="projects">
   <h1 style="font-size: 2.3rem; color: white; font-weight: bold; border-color:transparent;">
   ✨ Projetos em destaque
   </h1>
+
   <div class="project-container">
-    <h2>
+    <span style="font-size: 22px;">
       Próton ERP
-    </h2>
+    </span>
     <p>
       Descrição do projeto
     </p>
@@ -278,8 +277,9 @@
       </li>
     </ul>
   </div>
+
   <div class="project-container">
-    <h2>EstoqueFácil</h2>
+   <span style="font-size: 22px;">EstoqueFácil</span>
     <p>
       App de contagem de estoque com leitura de planilhas e scanner de códigos de barras.
     </p>
@@ -299,7 +299,7 @@
     </ul>
   </div>
   <div class="project-container">
-    <h2>Avaliali</h2>
+      <span style="font-size: 22px;">Avaliali</span>
     <p>
       Sistema completo para avaliação de clientes com painel administrativo.
     </p>
@@ -320,7 +320,6 @@
   </div>
 </div>
 
-</br>
 
 <div id="statics">
 <div id="statics-intro">
@@ -343,7 +342,6 @@
 </div>
 </div>
 
-</br>
 
 <div id="statics-rocktseat">
   <div id="statics-rocktseat__intro">
@@ -357,7 +355,6 @@
   </div>
 </div>
 
-</br>
 
 <div align=center>
 
