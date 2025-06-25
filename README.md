@@ -10,7 +10,7 @@
     💻 Develop FullStack JavaScript | React JS | React Native | Node.js | Microservices | Python | RPA.
   </p>
 
-</div><br>
+</div></br>
 
 <p align=center class="content" id="content-stacks">
   <img src="icons/javascript.svg" width=25 style="margin-right: 10px">
@@ -25,25 +25,32 @@
 <div class="content" id="about">
 
   <h1 style="font-size: 2.3rem; color: white; font-weight: bold; border-color:transparent;">👨‍💻 Sobre mim</h1>
-  
+
   <p style="font-size: 18px;">
   Olá! Me chamo Maxsuel David, sou um desenvolvedor apaixonado por tecnologia. Minha jornada começou cedo, com pequenos scripts em <code>.bat</code>, depois experimentando o <strong>Google Sites</strong>, até que mergulhei de vez em <strong>HTML</strong> e <strong>PHP</strong>. Com o tempo, vieram os cursos e, mais tarde, o <strong>IFBA</strong>, onde tive a oportunidade de fazer meu primeiro trabalho como <strong>freelancer</strong>, usando <strong>HTML, CSS, PHP, MySQL</strong> e <strong>JavaScript</strong>.</br></br>
   Desde então, desenvolvi diversos projetos como <strong>freelancer</strong>: <u>Desde links de pedidos integrados a sistemas de delivery, até plataformas de gestão de pedidos para óticas, sites institucionais e um sistema completo de avaliação de clientes.</u></br></br>
   No meio do caminho, enfrentei frustrações, prazos apertados, bugs inesperados, sistemas quebrando e noites mal dormidas. Cada obstáculo moldou minha trajetória e me fortaleceu como desenvolvedor.</br></br>
   Em 2024, decidi me aventurar no universo do <strong>JavaScript</strong>, impulsionado pelo crescimento da linguagem. No entanto, a rotina intensa acabou limitando meu tempo para me aprofundar. Mas 2025 chegou como um recomeço: agora, com foco total em <strong>JavaScript</strong> e <strong>RPA</strong>, estou reconstruindo minha carreira com mais maturidade, disciplina e paixão.</br></br>
   Afinal, não somos uma <code>const</code> - Tudo muda, tudo evolui, tudo pode (e deve) ser refatorado. Estou redescobrindo esse universo e cada dia mais fascinado por ele. Fique à vontade para acompanhar minha jornada no <strong>backend</strong> com <strong>JavaScript</strong> e automações com <strong>RPA</strong>.
+
 </p>
+
 </div>
 
 </br>
 
 <div class="content" id="stacks">
+
   <h1 style="font-size: 2.3rem; color: white; font-weight: bold; border-color:transparent;">🚀 Tecnologias</h1>
+
   <p style="font-size : 18px">
   Um pouco das tecnologias que eu já conheço e estou conheçendo.
   </p>
+
 <table>
+
 <tbody>
+
 <tr>
   <td>
     <div class="stacks-container">
@@ -57,6 +64,7 @@
     </p>
   </td>
 </tr>
+
 <tr>
   <td>
     <div class="stacks-container">
@@ -70,6 +78,7 @@
     </p>
   </td>
 </tr>
+
 <tr>
   <td>
     <div class="stacks-container">
@@ -83,6 +92,7 @@
     </p>
   </td>
 </tr>
+
 <tr>
   <td>
     <div class="stacks-container">
@@ -96,6 +106,7 @@
     </p>
   </td>
 </tr>
+
 <tr>
   <td>
     <div class="stacks-container">
@@ -109,6 +120,7 @@
     </p>
   </td>
 </tr>
+
 <tr>
   <td>
     <div class="stacks-container">
@@ -122,6 +134,7 @@
     </p>
   </td>
 </tr>
+
 <tr>
   <td>
     <div class="stacks-container">
@@ -135,6 +148,7 @@
     </p>
   </td>
 </tr>
+
 <tr>
   <td>
     <div class="stacks-container">
@@ -148,6 +162,7 @@
     </p>
   </td>
 </tr>
+
 <tr>
   <td>
     <div class="stacks-container">
@@ -161,6 +176,7 @@
     </p>
   </td>
 </tr>
+
 <tr>
   <td>
     <div class="stacks-container">
@@ -174,6 +190,7 @@
     </p>
   </td>
 </tr>
+
 <tr>
   <td>
     <div class="stacks-container">
@@ -187,6 +204,7 @@
     </p>
   </td>
 </tr>
+
 <tr>
   <td>
     <div class="stacks-container">
@@ -200,6 +218,7 @@
     </p>
   </td>
 </tr>
+
 <tr>
   <td>
     <div class="stacks-container">
@@ -213,6 +232,7 @@
     </p>
   </td>
 </tr>
+
 <tr>
   <td>
     <div class="stacks-container">
@@ -226,8 +246,11 @@
     </p>
   </td>
 </tr>
+
 </tbody>
+
 </table>
+
 </div>
 
 </br>
