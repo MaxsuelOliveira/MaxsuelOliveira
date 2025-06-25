@@ -41,15 +41,15 @@
 Um pouco das tecnologias que eu já conheço e estou conheçendo.
 </p>
 
-<div >
+<div>
 
-<div align="center" style="display: flex; gap: 20px;">
-  <table>
+<div align="" style="display: flex; gap: 20px;">
+  <table style="flex : 1;">
     <tr><th>Backend</th></tr>
     <tr><td><img src="icons/python.svg" width="25"> Python</td></tr>
     <tr><td><img src="icons/nodejs.svg" width="25"> Node.js</td></tr>
   </table>
-  <table>
+ <table style="flex : 1;">
     <tr><th>Frontend</th></tr>
     <tr><td><img src="icons/react.svg" width="25"> React</td></tr>
     <tr><td><img src="icons/css.svg" width="25"> CSS</td></tr>
