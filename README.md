@@ -26,20 +26,16 @@
   <div class="stacks-container">
   <img src="icons/javascript.svg" width=25>
     <span style="font-size : 16px; font-weight : 700;">JAVASCRIPT</span>
-  </div>
-  <div class="stacks-container">
+  </div><div class="stacks-container">
     <img src="icons/javascript.svg" width=25>
     <span style="font-size : 16px; font-weight : 700;">NODEJS</span>
-  </div>
-  <div class="stacks-container">
+  </div><div class="stacks-container">
     <img src="icons/react_native.svg" width=25>
       <span style="font-size : 16px; font-weight : 700;">REACT NATIVE</span>
-  </div>
-  <div class="stacks-container">
+  </div><div class="stacks-container">
     <img src="icons/python.svg" width=25>
       <span style="font-size : 16px; font-weight : 700;">PYTHON</span>
-  </div>
-  <div class="stacks-container">
+  </div><div class="stacks-container">
     <img src="icons/python.svg" width=25>
       <span style="font-size : 16px; font-weight : 700;">FLASKY</span>
   </div>
