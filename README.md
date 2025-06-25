@@ -260,7 +260,7 @@
       Próton ERP
     </span>
     <p>
-      Descrição do projeto
+      Automação de processos no ERP Próton, desenvolvida em JavaScript para tornar o suporte mais eficiente.
     </p>
     <ul>
       <li>
