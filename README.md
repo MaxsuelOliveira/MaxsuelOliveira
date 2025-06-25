@@ -43,7 +43,7 @@ Um pouco das tecnologias que eu já conheço e estou conheçendo.
 
 <div>
 
-<div align="" style="display: flex; gap: 20px;">
+<div display=flex align="" style="display: flex; gap: 20px;">
   <table style="flex : 1;">
     <tr><th>Backend</th></tr>
     <tr><td><img src="icons/python.svg" width="25"> Python</td></tr>
