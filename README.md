@@ -35,13 +35,13 @@
 
 </div>
 
-<div class="content" id="stacks">
+<h1 style="font-size: 2.3rem; color: white; font-weight: bold; border-color:transparent;">🚀 Tecnologias</h1>
 
-  <h1 style="font-size: 2.3rem; color: white; font-weight: bold; border-color:transparent;">🚀 Tecnologias</h1>
+<p style="font-size : 18px">
+Um pouco das tecnologias que eu já conheço e estou conheçendo.
+</p>
 
-  <p style="font-size : 18px">
-  Um pouco das tecnologias que eu já conheço e estou conheçendo.
-  </p>
+<div style="display : flex;">
 
 <table>
   <tbody>
@@ -244,6 +244,8 @@
     </tr>
   </tbody>
 </table>
+
+</div>
 
 <div class="content" id="projects">
 <h1 style="font-size: 2.3rem; color: white; font-weight: bold;">
