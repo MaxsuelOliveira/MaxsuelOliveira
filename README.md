@@ -43,22 +43,11 @@ Um pouco das tecnologias que eu já conheço e estou conheçendo.
 
 <div>
 
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1;">
-    <table>
-      <tr><th>Backend</th></tr>
-      <tr><td>Python</td></tr>
-      <tr><td>Node.js</td></tr>
-    </table>
-  </div>
-  <div style="flex: 1;">
-    <table>
-      <tr><th>Frontend</th></tr>
-      <tr><td>React</td></tr>
-      <tr><td>CSS</td></tr>
-    </table>
-  </div>
-</div>
+| Backend | Frontend |
+|---------|----------|
+| ![](icons/python.svg) **Python**<br>Scraping, APIs e bots | ![](icons/react.svg) **React**<br>UIs dinâmicas e responsivas |
+| ![](icons/nodejs.svg) **Node.js**<br>APIs e automações | ![](icons/javascript.svg) **JavaScript**<br>DOM, lógica e eventos |
+| ![](icons/express.svg) **Express**<br>Rotas bem organizadas | ![](icons/css.svg) **CSS3**<br>Desde o float: left |
 
 <table width="50%">
   <tbody>
