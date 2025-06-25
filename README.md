@@ -20,6 +20,7 @@
   </p>
 </div>
 
+<code>
 <div class="content" id="content-stacks">
   <div class="stacks-container">
   <img src="icons/javascript.svg" width=25>
@@ -38,6 +39,7 @@
       <span style="font-size : 16px; font-weight : 700;">FLASKY</span>
   </div>
 </div>
+</code>
 
 <div class="content" id="about">
   <h1 id="about_title" style="font-size : 1.7rem;">👨‍💻 Sobre mim</h1>
