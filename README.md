@@ -93,3 +93,6 @@ Um pouco das tecnologias que eu já conheço e estou conheçendo.
 [![Discord](https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/)
 [![Rocketseat](https://img.shields.io/badge/Rocketseat-181717?style=for-the-badge&logo=rocketseat&logoColor=white)](https://app.rocketseat.com.br/me/md-04583)
 </div>
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="maxsueloliveiradev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/maxsueloliveiradev?trk=profile-badge">Maxsuel David Oliveira</a></div>
+              
