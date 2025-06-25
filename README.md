@@ -3,12 +3,14 @@
 
 <div id="intro">
 
-  <h1 align="center" style="border: none; padding: 0; margin: 0; font-size: 2rem;font-weight: bold;" border=none>I'm Maxsuel David Oliveira! 😐</h1>
+  <h1 align="center" style="border: none; padding: 0; margin: 0; font-size: 2rem;font-weight: bold; border-color:transparent;">I'm Maxsuel David Oliveira! 😐</h1>
+
   <p align="center" style="font-weight: 600; margin-top:10px;  font-weight: 500;
   font-size: 18px;">
     💻 Develop FullStack JavaScript | React JS | React Native | Node.js | Microservices | Python | RPA.
   </p>
-</div>
+
+</div><br>
 
 <p align=center class="content" id="content-stacks">
   <img src="icons/javascript.svg" width=25 style="margin-right: 10px">
@@ -19,11 +21,11 @@
 </p>
 
 </br>
-</br>
 
 <div class="content" id="about">
 
   <h1 style="font-size: 2.3rem; color: white; font-weight: bold; border-color:transparent;">👨‍💻 Sobre mim</h1>
+  
   <p style="font-size: 18px;">
   Olá! Me chamo Maxsuel David, sou um desenvolvedor apaixonado por tecnologia. Minha jornada começou cedo, com pequenos scripts em <code>.bat</code>, depois experimentando o <strong>Google Sites</strong>, até que mergulhei de vez em <strong>HTML</strong> e <strong>PHP</strong>. Com o tempo, vieram os cursos e, mais tarde, o <strong>IFBA</strong>, onde tive a oportunidade de fazer meu primeiro trabalho como <strong>freelancer</strong>, usando <strong>HTML, CSS, PHP, MySQL</strong> e <strong>JavaScript</strong>.</br></br>
   Desde então, desenvolvi diversos projetos como <strong>freelancer</strong>: <u>Desde links de pedidos integrados a sistemas de delivery, até plataformas de gestão de pedidos para óticas, sites institucionais e um sistema completo de avaliação de clientes.</u></br></br>
@@ -33,7 +35,6 @@
 </p>
 </div>
 
-</br>
 </br>
 
 <div class="content" id="stacks">
@@ -230,7 +231,6 @@
 </div>
 
 </br>
-</br>
 
 <div class="content" id="projects">
   <h1 style="font-size: 2.3rem; color: white; font-weight: bold; border-color:transparent;">
@@ -301,7 +301,6 @@
 </div>
 
 </br>
-</br>
 
 <div id="statics">
 <div id="statics-intro">
@@ -325,7 +324,6 @@
 </div>
 
 </br>
-</br>
 
 <div id="statics-rocktseat">
   <div id="statics-rocktseat__intro">
@@ -339,7 +337,6 @@
   </div>
 </div>
 
-</br>
 </br>
 
 <div align=center>
