@@ -13,7 +13,6 @@
 </div>
 
 <p align=center>
-  <img src="icons/javascript.svg" width=25 style="margin-right: 10px">
   <img src="icons/javascript.svg" width=25  style="margin-right: 10px">
   <img src="icons/react_native.svg" width=25  style="margin-right: 10px">
   <img src="icons/python.svg" width=25  style="margin-right: 10px">
