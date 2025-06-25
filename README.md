@@ -1,4 +1,11 @@
+
 <div id="page">
+
+<style>
+  .markdown-body h1 {
+    border : 0px !important;
+  }
+</style>
 
 <div id="intro">
   <div id="banner-profile" style="width: 100%;
