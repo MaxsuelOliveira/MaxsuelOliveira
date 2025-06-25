@@ -49,7 +49,7 @@
       <td>
         <div class="stacks-container">
           <img src="icons/python.svg" width="25">
-          <span class="sub-title">PYTHON</span>
+          <span class="sub-title">PYTHON
         </div>
       </td>
       <td>
@@ -62,7 +62,7 @@
       <td>
         <div class="stacks-container">
           <img src="icons/nodejs.svg" width="25">
-          <span class="sub-title">NODE.JS</span>
+          <span class="sub-title">NODE.JS
         </div>
       </td>
       <td>
@@ -75,7 +75,7 @@
       <td>
         <div class="stacks-container">
           <img src="icons/express.svg" width="25">
-          <span class="sub-title">EXPRESS.JS</span>
+          <span class="sub-title">EXPRESS.JS
         </div>
       </td>
       <td>
@@ -93,7 +93,7 @@
       <td>
         <div class="stacks-container">
           <img src="icons/javascript.svg" width="25">
-          <span class="sub-title">JAVASCRIPT</span>
+          <span class="sub-title">JAVASCRIPT
         </div>
       </td>
       <td>
@@ -106,7 +106,7 @@
       <td>
         <div class="stacks-container">
           <img src="icons/react.svg" width="25">
-          <span class="sub-title">REACT</span>
+          <span class="sub-title">REACT
         </div>
       </td>
       <td>
@@ -119,7 +119,7 @@
       <td>
         <div class="stacks-container">
           <img src="icons/css.svg" width="25">
-          <span class="sub-title">CSS3</span>
+          <span class="sub-title">CSS3
         </div>
       </td>
       <td>
@@ -132,7 +132,7 @@
       <td>
         <div class="stacks-container">
           <img src="icons/tailwindcss.svg" width="25">
-          <span class="sub-title">TAILWIND CSS</span>
+          <span class="sub-title">TAILWIND CSS
         </div>
       </td>
       <td>
@@ -145,7 +145,7 @@
       <td>
         <div class="stacks-container">
           <img src="icons/figma.svg" width="25">
-          <span class="sub-title">FIGMA</span>
+          <span class="sub-title">FIGMA
         </div>
       </td>
       <td>
@@ -163,7 +163,7 @@
       <td>
         <div class="stacks-container">
           <img src="icons/oracle.svg" width="25">
-          <span class="sub-title">ORACLE</span>
+          <span class="sub-title">ORACLE
         </div>
       </td>
       <td>
@@ -176,7 +176,7 @@
       <td>
         <div class="stacks-container">
           <img src="icons/sqlite.svg" width="25">
-          <span class="sub-title">SQLITE</span>
+          <span class="sub-title">SQLITE
         </div>
       </td>
       <td>
@@ -189,7 +189,7 @@
       <td>
         <div class="stacks-container">
           <img src="icons/mongo.svg" width="25">
-          <span class="sub-title">MONGODB</span>
+          <span class="sub-title">MONGODB
         </div>
       </td>
       <td>
@@ -207,7 +207,7 @@
       <td>
         <div class="stacks-container">
           <img src="icons/docker.svg" width="25">
-          <span class="sub-title">DOCKER</span>
+          <span class="sub-title">DOCKER
         </div>
       </td>
       <td>
@@ -220,7 +220,7 @@
       <td>
         <div class="stacks-container">
           <img src="icons/postman.svg" width="25">
-          <span class="sub-title">POSTMAN</span>
+          <span class="sub-title">POSTMAN
         </div>
       </td>
       <td>
@@ -233,7 +233,7 @@
       <td>
         <div class="stacks-container">
           <img src="icons/git.svg" width="25">
-          <span class="sub-title">GIT</span>
+          <span class="sub-title">GIT
         </div>
       </td>
       <td>
@@ -245,71 +245,51 @@
   </tbody>
 </table>
 
-
-
-
 <div class="content" id="projects">
-  <h1 style="font-size: 2.3rem; color: white; font-weight: bold; border-color:transparent;">
-  ✨ Projetos em destaque
-  </h1>
+<h1 style="font-size: 2.3rem; color: white; font-weight: bold;">
+✨ Projetos em destaque
+</h1>
 
-<div class="project-container">
-<h2>Próton ERP</h2>
-<p style="font-size : 16px;">Automação de processos no ERP Próton, desenvolvida em JavaScript para tornar o suporte mais eficiente.</p>
-<hr>
+<p style="font-size : 16px;">
+<b>Próton ERP</b></br>
+Automação de processos no ERP Próton, desenvolvida em JavaScript para tornar o suporte mais eficiente.</p>
 
 <ul><li><b>Node.js</b> Usado para construir a api de consulta.</li>
 <li><b>Oracle</b> Banco de dados do sistema.</li>
 <li><b>Docler</b> Upload de um microservice que é a consulta por onde fica o backend.</li>
-<li><b>ReactJS</b> Frontend para o cliente.</span></li></ul>
-<hr style="border: solid 5px rgba(141, 121, 239, 0.4);">
-</div>
+<li><b>ReactJS</b> Frontend para o cliente.</li></ul>
 
-<div class="project-container">
-<h2>EstoqueFácil App</h2>
-<p style="font-size : 16px;">App de contagem de estoque com leitura de planilhas e scanner de códigos de barras.</p>
-<hr>
 
-  <ul>
-    <li>
-      <b>React Native</b> <span>Usado para desenvolver o app mobile.</span>
-    </li>
-    <li>
-      <b>JS</b> <span>Base de toda a lógica da aplicação.</span>
-    </li>
-    <li>
-      XLSX <span>Importação e leitura de planilhas.</span>
-    </li>
-    <li>
-      <b>Expo</b> <span>Facilitou o build e testes no celular.</span>
-    </li>
-    <li>
-      <b>MongoDB</b> <span>Facilitou o build e testes no celular.</span>
-    </li>
-  </ul>
-</div>
+***
 
-  <div class="project-container">
-      <span style="font-size: 22px;">Avaliali</span>
-    <p>
-      Sistema completo para avaliação de clientes com painel administrativo.
-    </p>
-    <ul>
-      <li>
-        Node.js <span>Backend para controle das avaliações.</span>
-      </li>
-      <li>
-        SQLite <span>Banco leve e direto no servidor.</span>
-      </li>
-      <li>
-        JavaScript <span>Usado tanto no backend quanto em scripts do frontend.</span>
-      </li>
-      <li>
-        HTML + CSS <span>Base do painel de administração.</span>
-      </li>
-    </ul>
-  </div>
-</div>
+<p style="font-size : 16px;">
+<b>EstoqueFácil App</b></br>
+App de contagem de estoque com leitura de planilhas e scanner de códigos de barras.</p>
+
+<ul>
+<li><b>React Native</b> Usado para desenvolver o app mobile.</li>
+<li><b>JS</b> Base de toda a lógica da aplicação.</li>
+<li>XLSX Importação e leitura de planilhas.</li>
+<li><b>Expo</b> Facilitou o build e testes no celular.</li>
+<li><b>MongoDB</b> Facilitou o build e testes no celular.</li>
+</ul>
+
+
+***
+
+<p style="font-size : 16px;">
+<b>Avaliali, Client, Dashboard</b></br>
+Sistema completo para avaliação de clientes, painel para a empresa todo o frontend, junto com a integração com a API.
+</p>
+
+<ul>
+<li><b>PHP</b> usado para a construção da API, regras de negocios.</li>
+<li><b>MySQL</b>o DB padrão ultilizado nesse MVC.</li>
+<li><b>HTML</b>, <b>CSS</b>, <b>JS</b> e também <b>Boostrap</b> usado no frontend.<b>Em breve reactJS.</b></li>
+</ul>
+
+
+***
 
 <div id="statics">
 <div id="statics-intro">
