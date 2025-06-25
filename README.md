@@ -7,7 +7,7 @@
 
   <p align="center" style="font-weight: 600; margin-top:10px;  font-weight: 500;
   font-size: 18px;">
-    💻 Develop FullStack JavaScript | React JS | React Native | Node.js | Microservices | Python | RPA.
+    💻 Desenvolvedor FullStack | JS | Python
   </p>
 
 </div>
