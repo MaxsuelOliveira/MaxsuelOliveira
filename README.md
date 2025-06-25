@@ -9,6 +9,7 @@
   font-size: 18px;">
     💻 Develop FullStack JavaScript | React JS | React Native | Node.js | Microservices | Python | RPA.
   </p>
+
 </div>
 
 <p align=center>
@@ -34,7 +35,6 @@
 
 </div>
 
-
 <div class="content" id="stacks">
 
   <h1 style="font-size: 2.3rem; color: white; font-weight: bold; border-color:transparent;">🚀 Tecnologias</h1>
@@ -44,210 +44,214 @@
   </p>
 
 <table>
-
-<tbody>
-
-<tr>
-  <td>
-    <div class="stacks-container">
-      <img src="icons/python.svg" width="25">
-      <span class="sub-title">PYTHON</span>
-    </div>
-  </td>
-  <td>
-    <p class="stacks-text">
-      Elaborando várias ideias, desde scraping até chatbots.
-    </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <div class="stacks-container">
-      <img src="icons/docker.svg" width="25">
-      <span class="sub-title">DOCKER</span>
-    </div>
-  </td>
-  <td>
-    <p class="stacks-text">
-      Empacotando microserviços e testando tudo em containers.
-    </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <div class="stacks-container">
-      <img src="icons/oracle.svg" width="25">
-      <span class="sub-title">ORACLE</span>
-    </div>
-  </td>
-  <td>
-    <p class="stacks-text">
-      Consultas robustas e integrações em sistemas legados.
-    </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <div class="stacks-container">
-      <img src="icons/javascript.svg" width="25">
-      <span class="sub-title">JAVASCRIPT</span>
-    </div>
-  </td>
-  <td>
-    <p class="stacks-text">
-      Meu universo atual: lógica, eventos e muita DOM.
-    </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <div class="stacks-container">
-      <img src="icons/figma.svg" width="25">
-      <span class="sub-title">FIGMA</span>
-    </div>
-  </td>
-  <td>
-    <p class="stacks-text">
-      Protótipos rápidos pra transformar ideias em tela.
-    </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <div class="stacks-container">
-      <img src="icons/nodejs.svg" width="25">
-      <span class="sub-title">NODE.JS</span>
-    </div>
-  </td>
-  <td>
-    <p class="stacks-text">
-      Backend leve, rápido e cheio de automações.
-    </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <div class="stacks-container">
-      <img src="icons/react.svg" width="25">
-      <span class="sub-title">REACT</span>
-    </div>
-  </td>
-  <td>
-    <p class="stacks-text">
-      UIs dinâmicas com muita responsividade e hooks.
-    </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <div class="stacks-container">
-      <img src="icons/sqlite.svg" width="25">
-      <span class="sub-title">SQLITE</span>
-    </div>
-  </td>
-  <td>
-    <p class="stacks-text">
-      Simples, direto e perfeito pra projetos locais.
-    </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <div class="stacks-container">
-      <img src="icons/tailwindcss.svg" width="25">
-      <span class="sub-title">TAILWIND CSS</span>
-    </div>
-  </td>
-  <td>
-    <p class="stacks-text">
-      Estilo rápido, prático e com utilitários em tudo.
-    </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <div class="stacks-container">
-      <img src="icons/express.svg" width="25">
-      <span class="sub-title">EXPRESS.JS</span>
-    </div>
-  </td>
-  <td>
-    <p class="stacks-text">
-      Minha base para APIs rápidas e bem organizadas.
-    </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <div class="stacks-container">
-      <img src="icons/mongo.svg" width="25">
-      <span class="sub-title">MONGODB</span>
-    </div>
-  </td>
-  <td>
-    <p class="stacks-text">
-      Schema flexível e fácil de escalar com Node.
-    </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <div class="stacks-container">
-      <img src="icons/css.svg" width="25">
-      <span class="sub-title">CSS3</span>
-    </div>
-  </td>
-  <td>
-    <p class="stacks-text">
-      Estilizando desde os tempos do float: left.
-    </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <div class="stacks-container">
-      <img src="icons/postman.svg" width="25">
-      <span class="sub-title">POSTMAN</span>
-    </div>
-  </td>
-  <td>
-    <p class="stacks-text">
-      Testando, documentando e validando todas as rotas.
-    </p>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <div class="stacks-container">
-      <img src="icons/git.svg" width="25">
-      <span class="sub-title">GIT</span>
-    </div>
-  </td>
-  <td>
-    <p class="stacks-text">
-      Versionando tudo com responsabilidade (e uns commits nervosos).
-    </p>
-  </td>
-</tr>
-
-</tbody>
-
+  <tbody>
+    <tr>
+      <td>
+        <div class="stacks-container">
+          <img src="icons/python.svg" width="25">
+          <span class="sub-title">PYTHON</span>
+        </div>
+      </td>
+      <td>
+        <p style="font-size : 16px;">
+          Elaborando várias ideias, desde scraping até chatbots.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="stacks-container">
+          <img src="icons/nodejs.svg" width="25">
+          <span class="sub-title">NODE.JS</span>
+        </div>
+      </td>
+      <td>
+        <p style="font-size : 16px;">
+          Backend leve, rápido e cheio de automações.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="stacks-container">
+          <img src="icons/express.svg" width="25">
+          <span class="sub-title">EXPRESS.JS</span>
+        </div>
+      </td>
+      <td>
+        <p style="font-size : 16px;">
+          Minha base para APIs rápidas e bem organizadas.
+        </p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-</div>
+<hr style="height : 10px; border-color : #eeef; border-solid : 2px;">
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <div class="stacks-container">
+          <img src="icons/javascript.svg" width="25">
+          <span class="sub-title">JAVASCRIPT</span>
+        </div>
+      </td>
+      <td>
+        <p style="font-size : 16px;">
+          Meu universo atual: lógica, eventos e muita DOM.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="stacks-container">
+          <img src="icons/react.svg" width="25">
+          <span class="sub-title">REACT</span>
+        </div>
+      </td>
+      <td>
+        <p style="font-size : 16px;">
+          UIs dinâmicas com muita responsividade e hooks.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="stacks-container">
+          <img src="icons/css.svg" width="25">
+          <span class="sub-title">CSS3</span>
+        </div>
+      </td>
+      <td>
+        <p style="font-size : 16px;">
+          Estilizando desde os tempos do float: left.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="stacks-container">
+          <img src="icons/tailwindcss.svg" width="25">
+          <span class="sub-title">TAILWIND CSS</span>
+        </div>
+      </td>
+      <td>
+        <p style="font-size : 16px;">
+          Estilo rápido, prático e com utilitários em tudo.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="stacks-container">
+          <img src="icons/figma.svg" width="25">
+          <span class="sub-title">FIGMA</span>
+        </div>
+      </td>
+      <td>
+        <p style="font-size : 16px;">
+          Protótipos rápidos pra transformar ideias em tela.
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr style="height : 10px; border-color : #eeef; border-solid : 2px;">
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <div class="stacks-container">
+          <img src="icons/oracle.svg" width="25">
+          <span class="sub-title">ORACLE</span>
+        </div>
+      </td>
+      <td>
+        <p class="stacks-text">
+          Consultas robustas e integrações em sistemas legados.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="stacks-container">
+          <img src="icons/sqlite.svg" width="25">
+          <span class="sub-title">SQLITE</span>
+        </div>
+      </td>
+      <td>
+        <p class="stacks-text">
+          Simples, direto e perfeito pra projetos locais.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="stacks-container">
+          <img src="icons/mongo.svg" width="25">
+          <span class="sub-title">MONGODB</span>
+        </div>
+      </td>
+      <td>
+        <p class="stacks-text">
+          Schema flexível e fácil de escalar com Node.
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr style="height : 10px; border-color : #eeef; border-solid : 2px;">
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <div class="stacks-container">
+          <img src="icons/docker.svg" width="25">
+          <span class="sub-title">DOCKER</span>
+        </div>
+      </td>
+      <td>
+        <p class="stacks-text">
+          Empacotando microserviços e testando tudo em containers.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="stacks-container">
+          <img src="icons/postman.svg" width="25">
+          <span class="sub-title">POSTMAN</span>
+        </div>
+      </td>
+      <td>
+        <p class="stacks-text">
+          Testando, documentando e validando todas as rotas.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="stacks-container">
+          <img src="icons/git.svg" width="25">
+          <span class="sub-title">GIT</span>
+        </div>
+      </td>
+      <td>
+        <p class="stacks-text">
+          Versionando tudo com responsabilidade (e uns commits nervosos).
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 
 <div class="content" id="projects">
@@ -255,49 +259,42 @@
   ✨ Projetos em destaque
   </h1>
 
-  <div class="project-container">
-    <span style="font-size: 22px;">
-      Próton ERP
-    </span>
-    <p>
-      Automação de processos no ERP Próton, desenvolvida em JavaScript para tornar o suporte mais eficiente.
-    </p>
-    <ul>
-      <li>
-        Node.js <span> Usado para construir o meu backend.</span>
-      </li>
-      <li>
-        Postgress <span>Banco de dados</span>
-      </li>
-      <li>
-        Docker <span>Upload de um microservice que é a consulta por onde fica o backend.</span>
-      </li>
-      <li>
-        React JS <span> Frontend para o cliente.</span>
-      </li>
-    </ul>
-  </div>
+<div class="project-container">
+<h2>Próton ERP</h2>
+<p style="font-size : 16px;">Automação de processos no ERP Próton, desenvolvida em JavaScript para tornar o suporte mais eficiente.</p>
+<hr>
 
-  <div class="project-container">
-   <span style="font-size: 22px;">EstoqueFácil</span>
-    <p>
-      App de contagem de estoque com leitura de planilhas e scanner de códigos de barras.
-    </p>
-    <ul>
-      <li>
-        React Native <span>Usado para desenvolver o app mobile.</span>
-      </li>
-      <li>
-        JavaScript <span>Base de toda a lógica da aplicação.</span>
-      </li>
-      <li>
-        XLSX <span>Importação e leitura de planilhas.</span>
-      </li>
-      <li>
-        Expo <span>Facilitou o build e testes no celular.</span>
-      </li>
-    </ul>
-  </div>
+<ul><li><b>Node.js</b> Usado para construir a api de consulta.</li>
+<li><b>Oracle</b> Banco de dados do sistema.</li>
+<li><b>Docler</b> Upload de um microservice que é a consulta por onde fica o backend.</li>
+<li><b>ReactJS</b> Frontend para o cliente.</span></li></ul>
+<hr style="border: solid 5px rgba(141, 121, 239, 0.4);">
+</div>
+
+<div class="project-container">
+<h2>EstoqueFácil App</h2>
+<p style="font-size : 16px;">App de contagem de estoque com leitura de planilhas e scanner de códigos de barras.</p>
+<hr>
+
+  <ul>
+    <li>
+      <b>React Native</b> <span>Usado para desenvolver o app mobile.</span>
+    </li>
+    <li>
+      <b>JS</b> <span>Base de toda a lógica da aplicação.</span>
+    </li>
+    <li>
+      XLSX <span>Importação e leitura de planilhas.</span>
+    </li>
+    <li>
+      <b>Expo</b> <span>Facilitou o build e testes no celular.</span>
+    </li>
+    <li>
+      <b>MongoDB</b> <span>Facilitou o build e testes no celular.</span>
+    </li>
+  </ul>
+</div>
+
   <div class="project-container">
       <span style="font-size: 22px;">Avaliali</span>
     <p>
@@ -320,7 +317,6 @@
   </div>
 </div>
 
-
 <div id="statics">
 <div id="statics-intro">
   <h1 style="font-size: 2.3rem; color: white; font-weight: bold;border-color:transparent;">
@@ -342,7 +338,6 @@
 </div>
 </div>
 
-
 <div id="statics-rocktseat">
   <div id="statics-rocktseat__intro">
     <h1 style="font-size: 2.3rem; color: white; font-weight: bold;border-color:transparent;">
@@ -354,7 +349,6 @@
   </p>
   </div>
 </div>
-
 
 <div align=center>
 
