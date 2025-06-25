@@ -34,6 +34,8 @@ Olá! Sou <b>Maxsuel David</b>, dev apaixonado por tecnologia — comecei com sc
 Um pouco das tecnologias que eu já conheço e estou conheçendo.
 </p>
 
+<div style="width: 1000%">
+
 | 🛠️ <b>Backend<b> | 🎨 <b>Frontend<b> | 🗄️ <b>Banco de Dados<b> | ⚙️ <b>Ferramentas<b> |
 |----------------|----------------|------------------------|--------------------|
 | <img src="icons/python.svg" width="23"> <b>Python<b><br><sub>Scraping e bots</sub> | <img src="icons/react.svg" width="23"> <b>React<b><br><sub>Interfaces dinâmicas</sub> | <img src="icons/oracle.svg" width="23"> <b>Oracle<b><br><sub>Sistemas legados</sub> | <img src="icons/docker.svg" width="23"> <b>Docker<b><br><sub>Containers e testes</sub> |
@@ -41,8 +43,9 @@ Um pouco das tecnologias que eu já conheço e estou conheçendo.
 | <img src="icons/express.svg" width="23"> <b>Express<b><br><sub>Rotas rápidas</sub> | <img src="icons/css.svg" width="23"> <b>CSS3<b><br><sub>Estilização clássica</sub> | <img src="icons/mongo.svg" width="23"> <b>MongoDB<b><br><sub>Schema flexível</sub> | <img src="icons/git.svg" width="23"> <b>Git<b><br><sub>Versionamento</sub> |
 |                | <img src="icons/tailwindcss.svg" width="23"> <b>Tailwind CSS<b><br><sub>Estilo utilitário</sub> |                        |                    |
 |                | <img src="icons/figma.svg" width="23"> <b>Figma<b><br><sub>Protótipos ágeis</sub> |                        |                    |
+</div>
 
-<div class="content" id="projects">
+
 <h1 style="font-size: 2.3rem; color: white; font-weight: bold;">
 ✨ Projetos em destaque
 </h1>
@@ -57,7 +60,7 @@ Automação de processos no ERP Próton, desenvolvida em JavaScript para tornar 
 <li><b>ReactJS</b> Frontend para o cliente.</li></ul>
 
 
-<b>*
+***
 
 <p style="font-size : 16px;">
 <b>EstoqueFácil App</b></br>
@@ -72,7 +75,7 @@ App de contagem de estoque com leitura de planilhas e scanner de códigos de bar
 </ul>
 
 
-<b>*
+***
 
 <p style="font-size : 16px;">
 <b>Avaliali, Client, Dashboard</b></br>
@@ -86,7 +89,8 @@ Sistema completo para avaliação de clientes, painel para a empresa todo o fron
 </ul>
 
 
-<b>*
+***
+
 
 <h1 style="font-size: 2.3rem; color: white; font-weight: bold;">
   Estatísticas GitHub
