@@ -41,7 +41,7 @@
 Um pouco das tecnologias que eu já conheço e estou conheçendo.
 </p>
 
-<div style="display : flex;">
+<div style="display : flex; gap : 10px; flex-wrap: nowrap;">
 
 <table>
   <tbody>
@@ -156,6 +156,10 @@ Um pouco das tecnologias que eu já conheço e estou conheçendo.
     </tr>
   </tbody>
 </table>
+
+</div>
+
+<div style="display : flex; gap : 10px; flex-wrap: nowrap;">
 
 <table>
   <tbody>
