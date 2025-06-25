@@ -294,9 +294,6 @@ Sistema completo para avaliação de clientes, painel para a empresa todo o fron
 <h1 style="font-size: 2.3rem; color: white; font-weight: bold;">
   Estatísticas GitHub
 </h1>
-<p style="font-size : 18px;">
-Desculpe a ausencia aqui no meu github... embreve novas atualizações.
-</p>
 
 <div style="display : flex; gap : 10px;">
 <img
