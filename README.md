@@ -41,9 +41,9 @@
 Um pouco das tecnologias que eu já conheço e estou conheçendo.
 </p>
 
-<div style="display : flex; gap : 10px; flex-wrap: nowrap;">
+<div style="display:inline-flex;">
 
-<table>
+<table width="50%">
   <tbody>
     <tr>
       <td>
@@ -87,7 +87,7 @@ Um pouco das tecnologias que eu já conheço e estou conheçendo.
   </tbody>
 </table>
 
-<table>
+<table width="50%">
   <tbody>
     <tr>
       <td>
