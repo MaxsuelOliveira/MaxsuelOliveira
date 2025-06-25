@@ -2,8 +2,6 @@
 <div id="page">
 
 
-
-
 <div id="intro">
   <div id="banner-profile" style="width: 100%;
   height: 120px;
@@ -42,7 +40,7 @@
 </div>
 
 <div class="content" id="about">
-  <h1 id="about_title">👨‍💻 Sobre mim</h1>
+  <h1 id="about_title" style="font-size : 1.7rem;">👨‍💻 Sobre mim</h1>
   <p style="font-size: 18px;">
   Olá! Me chamo Maxsuel David, sou um desenvolvedor apaixonado por tecnologia. Minha jornada começou cedo, com pequenos scripts em <code>.bat</code>, depois experimentando o <b>Google Sites</b>, até que mergulhei de vez em <b>HTML</b> e <b>PHP</b>. Com o tempo, vieram os cursos e, mais tarde, o <b>IFBA</b>, onde tive a oportunidade de fazer meu primeiro trabalho como <b>freelancer</b>, usando <b>HTML, CSS, PHP, MySQL</b> e <b>JavaScript</b>.<br><br>
   Desde então, desenvolvi diversos projetos como <b>freelancer</b>: <u>Desde links de pedidos integrados a sistemas de delivery, até plataformas de gestão de pedidos para óticas, sites institucionais e um sistema completo de avaliação de clientes.</u><br><br>
