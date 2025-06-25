@@ -87,8 +87,6 @@
   </tbody>
 </table>
 
-<hr style="height : 10px; border-color : #eeef; border-solid : 2px;">
-
 <table>
   <tbody>
     <tr>
@@ -159,8 +157,6 @@
   </tbody>
 </table>
 
-<hr style="height : 10px; border-color : #eeef; border-solid : 2px;">
-
 <table>
   <tbody>
     <tr>
@@ -204,8 +200,6 @@
     </tr>
   </tbody>
 </table>
-
-<hr style="height : 10px; border-color : #eeef; border-solid : 2px;">
 
 <table>
   <tbody>
