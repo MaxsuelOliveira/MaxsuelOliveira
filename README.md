@@ -1,59 +1,43 @@
 
 <div id="page">
 
-
-
-
 <div id="intro">
-  <div id="banner-profile" style="width: 100%;
-  height: 120px;
-  background-color: blue;
-  border-radius: 10px;
-  margin-top: 10px;
-  margin-bottom: 50px;"></div>
-  <!-- Imagem/Profile -->
-  <!-- <div class="profile-container">
-    <img class="center" src="./imgs/profile.jpg" width="170px" height="170px" style="border-radius : 65px 45px 65px 45px; object-fit: cover;" title="Maxsuel por aqui ! 😉😀"/>
-  </div> -->
-  <h1 align="center" style="border: none; padding: 0; margin: 0; font-size: 2rem;">I'm Maxsuel David Oliveira! 😐</h1>
-  <p align="center" class="profile_description" style="">
-    💻 Develop FullStack JavaScript | React JS | React Native | Node.js | Microservices | Python | RPA. <br>
-    <svg stroke="currentColor" fill="none" stroke-width="0" width="16" height="16" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="text-gray-200"><path fill-rule="evenodd" clip-rule="evenodd" d="M12.0015 1.25C8.17538 1.25 4.52505 3.51253 2.99714 7.08468C1.57518 10.4086 2.34496 13.2373 3.94771 15.6595C5.26177 17.6454 7.17835 19.4178 8.90742 21.0168L8.90824 21.0175C9.23768 21.3222 9.56031 21.6206 9.87066 21.9129L9.87231 21.9145C10.4473 22.4528 11.2112 22.75 12.0015 22.75C12.7919 22.75 13.5558 22.4528 14.1258 21.9144C14.4243 21.6396 14.7286 21.3592 15.039 21.0732C16.7869 19.4628 18.7254 17.672 20.0582 15.6609C21.6591 13.2362 22.4261 10.4045 21.0059 7.08468C19.478 3.51253 15.8277 1.25 12.0015 1.25ZM12 7C9.79086 7 8 8.79086 8 11C8 13.2091 9.79086 15 12 15C14.2091 15 16 13.2091 16 11C16 8.79086 14.2091 7 12 7Z" fill="currentColor"></path></svg> Brazil
+
+  <h1 align="center" style="border: none; padding: 0; margin: 0; font-size: 2rem;font-weight: bold;" border=none>I'm Maxsuel David Oliveira! 😐</h1>
+  <p align="center" style="font-weight: 600; margin-top:10px;  font-weight: 500;
+  font-size: 18px;">
+    💻 Develop FullStack JavaScript | React JS | React Native | Node.js | Microservices | Python | RPA.
   </p>
 </div>
 
-<div class="content" id="content-stacks">
-  <div class="stacks-container">
-  <img src="icons/javascript.svg" width=25>
-    <span style="font-size : 16px; font-weight : 700;">JAVASCRIPT</span>
-  </div><div class="stacks-container">
-    <img src="icons/javascript.svg" width=25>
-    <span style="font-size : 16px; font-weight : 700;">NODEJS</span>
-  </div><div class="stacks-container">
-    <img src="icons/react_native.svg" width=25>
-      <span style="font-size : 16px; font-weight : 700;">REACT NATIVE</span>
-  </div><div class="stacks-container">
-    <img src="icons/python.svg" width=25>
-      <span style="font-size : 16px; font-weight : 700;">PYTHON</span>
-  </div><div class="stacks-container">
-    <img src="icons/python.svg" width=25>
-      <span style="font-size : 16px; font-weight : 700;">FLASKY</span>
-  </div>
-</div>
+<p align=center class="content" id="content-stacks">
+  <img src="icons/javascript.svg" width=25 style="margin-right: 10px">
+  <img src="icons/javascript.svg" width=25  style="margin-right: 10px">
+  <img src="icons/react_native.svg" width=25  style="margin-right: 10px">
+  <img src="icons/python.svg" width=25  style="margin-right: 10px">
+  <img src="icons/python.svg" width=25>
+</p>
+
+</br>
+</br>
 
 <div class="content" id="about">
-  <h1 id="about_title">👨‍💻 Sobre mim</h1>
+
+  <h1 style="font-size: 2.3rem; color: white; font-weight: bold; border-color:transparent;">👨‍💻 Sobre mim</h1>
   <p style="font-size: 18px;">
-  Olá! Me chamo Maxsuel David, sou um desenvolvedor apaixonado por tecnologia. Minha jornada começou cedo, com pequenos scripts em <code>.bat</code>, depois experimentando o <b>Google Sites</b>, até que mergulhei de vez em <b>HTML</b> e <b>PHP</b>. Com o tempo, vieram os cursos e, mais tarde, o <b>IFBA</b>, onde tive a oportunidade de fazer meu primeiro trabalho como <b>freelancer</b>, usando <b>HTML, CSS, PHP, MySQL</b> e <b>JavaScript</b>.<br><br>
-  Desde então, desenvolvi diversos projetos como <b>freelancer</b>: <u>Desde links de pedidos integrados a sistemas de delivery, até plataformas de gestão de pedidos para óticas, sites institucionais e um sistema completo de avaliação de clientes.</u><br><br>
-  No meio do caminho, enfrentei frustrações, prazos apertados, bugs inesperados, sistemas quebrando e noites mal dormidas. Cada obstáculo moldou minha trajetória e me fortaleceu como desenvolvedor.<br><br>
-  Em 2024, decidi me aventurar no universo do <b>JavaScript</b>, impulsionado pelo crescimento da linguagem. No entanto, a rotina intensa acabou limitando meu tempo para me aprofundar. Mas 2025 chegou como um recomeço: agora, com foco total em <b>JavaScript</b> e <b>RPA</b>, estou reconstruindo minha carreira com mais maturidade, disciplina e paixão.<br><br>
-  Afinal, não somos uma <code>const</code> — tudo muda, tudo evolui, tudo pode (e deve) ser refatorado. Estou redescobrindo esse universo e cada dia mais fascinado por ele. Fique à vontade para acompanhar minha jornada no <b>backend</b> com <b>JavaScript</b> e automações com <b>RPA</b>.
+  Olá! Me chamo Maxsuel David, sou um desenvolvedor apaixonado por tecnologia. Minha jornada começou cedo, com pequenos scripts em <code>.bat</code>, depois experimentando o <strong>Google Sites</strong>, até que mergulhei de vez em <strong>HTML</strong> e <strong>PHP</strong>. Com o tempo, vieram os cursos e, mais tarde, o <strong>IFBA</strong>, onde tive a oportunidade de fazer meu primeiro trabalho como <strong>freelancer</strong>, usando <strong>HTML, CSS, PHP, MySQL</strong> e <strong>JavaScript</strong>.</br></br>
+  Desde então, desenvolvi diversos projetos como <strong>freelancer</strong>: <u>Desde links de pedidos integrados a sistemas de delivery, até plataformas de gestão de pedidos para óticas, sites institucionais e um sistema completo de avaliação de clientes.</u></br></br>
+  No meio do caminho, enfrentei frustrações, prazos apertados, bugs inesperados, sistemas quebrando e noites mal dormidas. Cada obstáculo moldou minha trajetória e me fortaleceu como desenvolvedor.</br></br>
+  Em 2024, decidi me aventurar no universo do <strong>JavaScript</strong>, impulsionado pelo crescimento da linguagem. No entanto, a rotina intensa acabou limitando meu tempo para me aprofundar. Mas 2025 chegou como um recomeço: agora, com foco total em <strong>JavaScript</strong> e <strong>RPA</strong>, estou reconstruindo minha carreira com mais maturidade, disciplina e paixão.</br></br>
+  Afinal, não somos uma <code>const</code> - Tudo muda, tudo evolui, tudo pode (e deve) ser refatorado. Estou redescobrindo esse universo e cada dia mais fascinado por ele. Fique à vontade para acompanhar minha jornada no <strong>backend</strong> com <strong>JavaScript</strong> e automações com <strong>RPA</strong>.
 </p>
 </div>
 
+</br>
+</br>
+
 <div class="content" id="stacks">
-  <h1 id="stacks-title">🚀 Tecnologias</h1>
+  <h1 style="font-size: 2.3rem; color: white; font-weight: bold; border-color:transparent;">🚀 Tecnologias</h1>
   <p style="font-size : 18px">
   Um pouco das tecnologias que eu já conheço e estou conheçendo.
   </p>
@@ -245,8 +229,11 @@
 </table>
 </div>
 
+</br>
+</br>
+
 <div class="content" id="projects">
-  <h1 id="project-title">
+  <h1 style="font-size: 2.3rem; color: white; font-weight: bold; border-color:transparent;">
   ✨ Projetos em destaque
   </h1>
   <div class="project-container">
@@ -313,16 +300,19 @@
   </div>
 </div>
 
+</br>
+</br>
+
 <div id="statics">
 <div id="statics-intro">
-  <h1 id="statics-title">
+  <h1 style="font-size: 2.3rem; color: white; font-weight: bold;border-color:transparent;">
     Estatísticas GitHub
   </h1>
-  <p>
+  <p style="font-size : 18px;">
   Desculpe a ausencia aqui no meu github... embreve novas atualizações.
   </p>
 </div>
-<div class="statics-container__imgs">
+<div style="display : flex; gap : 10px;">
 <img
   height="180em"
   src="https://github-readme-stats.vercel.app/api?username=MaxsuelOliveira&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"
@@ -334,10 +324,14 @@
 </div>
 </div>
 
+</br>
+</br>
+
 <div id="statics-rocktseat">
   <div id="statics-rocktseat__intro">
-    <h1 id="statics-rocktseat__title">
-      Estatísticas Rocketseat
+    <h1 style="font-size: 2.3rem; color: white; font-weight: bold;border-color:transparent;">
+     🚀 Estatísticas Rocketseat
+     </br>
     </h1>
   <p>
   Há tempos sonho em fazer parte da Rocketseat. Em 2025, finalmente me tornei aluno — e quem sabe, em breve, algo ainda maior aconteça, né @rocketseat? <a href="https://app.rocketseat.com.br/me/md-04583" title="Dá um pulo aqui" target="new_blank">🚀 Acompanhe minha jornada por aqui!</a>
@@ -345,22 +339,17 @@
   </div>
 </div>
 
-<hr style="padding : 30px; display: flex; aling-items: center; margin-bottom: 50px;"
+</br>
+</br>
 
-<div class="content" id="social">
-  <div class="">
+<div align=center>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxsuelOliveira)
-  [![Discord](https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/)
-  [![Rocketseat](https://img.shields.io/badge/Rocketseat-181717?style=for-the-badge&logo=rocketseat&logoColor=white)](https://app.rocketseat.com.br/me/md-04583)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxsuelOliveira)
+[![Discord](https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/)
+[![Rocketseat](https://img.shields.io/badge/Rocketseat-181717?style=for-the-badge&logo=rocketseat&logoColor=white)](https://app.rocketseat.com.br/me/md-04583)
 
-  </div>
-  <div class="">
-    <h2>
-    ✨ Sempre aprendendo, sempre evoluindo. Obrigado por visitar meu perfil! 🚀
-    </h2>
-  </div>
 </div>
+
 </div>
