@@ -49,69 +49,43 @@ Um pouco das tecnologias que eu já conheço e estou conheçendo.
 ✨ Projetos em destaque
 </h1>
 
-<p style="font-size : 16px;">
-<b>Próton ERP</b></br>
-Automação de processos no ERP Próton, desenvolvida em JavaScript para tornar o suporte mais eficiente.</p>
-
-<ul><li><b>Node.js</b> Usado para construir a api de consulta.</li>
-<li><b>Oracle</b> Banco de dados do sistema.</li>
-<li><b>Docler</b> Upload de um microservice que é a consulta por onde fica o backend.</li>
-<li><b>ReactJS</b> Frontend para o cliente.</li></ul>
-
-
-***
-
-<p style="font-size : 16px;">
-<b>EstoqueFácil App</b></br>
-App de contagem de estoque com leitura de planilhas e scanner de códigos de barras.</p>
-
-<ul>
-<li><b>React Native</b> Usado para desenvolver o app mobile.</li>
-<li><b>JS</b> Base de toda a lógica da aplicação.</li>
-<li>XLSX Importação e leitura de planilhas.</li>
-<li><b>Expo</b> Facilitou o build e testes no celular.</li>
-<li><b>MongoDB</b> Facilitou o build e testes no celular.</li>
-</ul>
-
-
-***
-
-<p style="font-size : 16px;">
-<b>Avaliali, Client, Dashboard</b></br>
-Sistema completo para avaliação de clientes, painel para a empresa todo o frontend, junto com a integração com a API.
+<p style="font-size: 16px;">
+  <strong>Próton ERP</strong><br>
+  Automação de processos no ERP Próton, desenvolvida em JavaScript para tornar o suporte mais eficiente. 
+  Utiliza <strong>Node.js</strong> na API de consulta, integra-se a um banco <strong>Oracle</strong>, roda seu microserviço de backend em <strong>Docker</strong> e entrega ao cliente uma interface responsiva em <strong>ReactJS</strong>.
 </p>
 
-<ul>
-<li><b>PHP</b> usado para a construção da API, regras de negocios.</li>
-<li><b>MySQL</b>o DB padrão ultilizado nesse MVC.</li>
-<li><b>HTML</b>, <b>CSS</b>, <b>JS</b> e também <b>Boostrap</b> usado no frontend.<b>Em breve reactJS.</b></li>
-</ul>
+***
+
+<p style="font-size: 16px;">
+  <strong>EstoqueFácil App</strong><br>
+  App de contagem de estoque com leitura de planilhas e scanner de códigos de barras. 
+  Desenvolvido em <strong>React Native</strong>, com toda lógica em <strong>JavaScript</strong>, 
+  importação e leitura de planilhas via <strong>XLSX</strong>, 
+  build rápido e testes no celular com <strong>Expo</strong> e armazenamento em <strong>MongoDB</strong>.
+</p>
 
 
 ***
 
+<p style="font-size: 16px;">
+  <strong>Avaliali, Client, Dashboard</strong><br>
+  Sistema completo de avaliação de clientes com painel frontend integrado à API.  
+  Construído em <strong>PHP</strong> (API e regras de negócio), com banco <strong>MySQL</strong>,  
+  frontend em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>Bootstrap</strong>,  
+  e em breve migrando para <strong>ReactJS</strong>.
+</p>
 
-<h1 style="font-size: 2.3rem; color: white; font-weight: bold;">
-  Estatísticas GitHub
-</h1>
 
-<div style="display : flex; gap : 10px;">
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=MaxsuelOliveira&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"
-/>
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxsuelOliveira&layout=compact&langs_count=8&theme=vue-dark"
-/>
-</div>
-
+***
 
 <div align=center>
 <h1 style="font-size: 2.3rem; color: white; font-weight: bold;">
   🚀  Rocketseat
 </h1>
 <p>Há tempos sonho em fazer parte da Rocketseat. Em 2025, finalmente me tornei aluno — e quem sabe, em breve, algo ainda maior aconteça, né @rocketseat? <a href="https://app.rocketseat.com.br/me/md-04583" title="Dá um pulo aqui" target="new_blank">🚀 Acompanhe minha jornada por aqui!</a></p>
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
