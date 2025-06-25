@@ -291,15 +291,13 @@ Sistema completo para avaliação de clientes, painel para a empresa todo o fron
 
 ***
 
-<div id="statics">
-<div id="statics-intro">
-  <h1 style="font-size: 2.3rem; color: white; font-weight: bold;border-color:transparent;">
-    Estatísticas GitHub
-  </h1>
-  <p style="font-size : 18px;">
-  Desculpe a ausencia aqui no meu github... embreve novas atualizações.
-  </p>
-</div>
+<h1 style="font-size: 2.3rem; color: white; font-weight: bold;">
+  Estatísticas GitHub
+</h1>
+<p style="font-size : 18px;">
+Desculpe a ausencia aqui no meu github... embreve novas atualizações.
+</p>
+
 <div style="display : flex; gap : 10px;">
 <img
   height="180em"
@@ -310,28 +308,17 @@ Sistema completo para avaliação de clientes, painel para a empresa todo o fron
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxsuelOliveira&layout=compact&langs_count=8&theme=vue-dark"
 />
 </div>
-</div>
 
-<div id="statics-rocktseat">
-  <div id="statics-rocktseat__intro">
-    <h1 style="font-size: 2.3rem; color: white; font-weight: bold;border-color:transparent;">
-     🚀 Estatísticas Rocketseat
-     </br>
-    </h1>
-  <p>
-  Há tempos sonho em fazer parte da Rocketseat. Em 2025, finalmente me tornei aluno — e quem sabe, em breve, algo ainda maior aconteça, né @rocketseat? <a href="https://app.rocketseat.com.br/me/md-04583" title="Dá um pulo aqui" target="new_blank">🚀 Acompanhe minha jornada por aqui!</a>
-  </p>
-  </div>
-</div>
 
 <div align=center>
+<h1 style="font-size: 2.3rem; color: white; font-weight: bold;">
+  🚀  Rocketseat
+</h1>
+<p>Há tempos sonho em fazer parte da Rocketseat. Em 2025, finalmente me tornei aluno — e quem sabe, em breve, algo ainda maior aconteça, né @rocketseat? <a href="https://app.rocketseat.com.br/me/md-04583" title="Dá um pulo aqui" target="new_blank">🚀 Acompanhe minha jornada por aqui!</a></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxsuelOliveira)
 [![Discord](https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/)
 [![Rocketseat](https://img.shields.io/badge/Rocketseat-181717?style=for-the-badge&logo=rocketseat&logoColor=white)](https://app.rocketseat.com.br/me/md-04583)
-
-</div>
-
 </div>
