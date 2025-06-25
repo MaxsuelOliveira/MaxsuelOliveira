@@ -41,7 +41,20 @@
 Um pouco das tecnologias que eu já conheço e estou conheçendo.
 </p>
 
-<div style="display:inline-flex;">
+<div >
+
+<div align="center" style="display: flex; gap: 20px;">
+  <table>
+    <tr><th>Backend</th></tr>
+    <tr><td><img src="icons/python.svg" width="25"> Python</td></tr>
+    <tr><td><img src="icons/nodejs.svg" width="25"> Node.js</td></tr>
+  </table>
+  <table>
+    <tr><th>Frontend</th></tr>
+    <tr><td><img src="icons/react.svg" width="25"> React</td></tr>
+    <tr><td><img src="icons/css.svg" width="25"> CSS</td></tr>
+  </table>
+</div>
 
 <table width="50%">
   <tbody>
