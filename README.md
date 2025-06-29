@@ -33,56 +33,30 @@ Olá! Sou <b>Maxsuel David</b>, dev apaixonado por tecnologia — comecei com sc
 Um pouco das tecnologias que eu já conheço e estou conheçendo.
 </p>
 
-<table style="width:100%; text-align:center;">
-  <thead>
-    <tr>
-      <th>🛠️ <strong>Backend</strong></th>
-      <th>🎨 <strong>Frontend</strong></th>
-      <th>🗄️ <strong>Banco de Dados</strong></th>
-      <th>⚙️ <strong>Ferramentas</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="icons/python.svg" width="23"><br><strong>Python</strong><br><sub>Scraping e bots</sub></td>
-      <td><img src="icons/react.svg" width="23"><br><strong>React</strong><br><sub>Interfaces dinâmicas</sub></td>
-      <td><img src="icons/oracle.svg" width="23"><br><strong>Oracle</strong><br><sub>Sistemas legados</sub></td>
-      <td><img src="icons/docker.svg" width="23"><br><strong>Docker</strong><br><sub>Containers e testes</sub></td>
-    </tr>
-    <tr>
-      <td><img src="icons/nodejs.svg" width="23"><br><strong>Node.js</strong><br><sub>APIs e automações</sub></td>
-      <td><img src="icons/javascript.svg" width="23"><br><strong>JavaScript</strong><br><sub>DOM e lógica</sub></td>
-      <td><img src="icons/sqlite.svg" width="23"><br><strong>SQLite</strong><br><sub>Projetos locais</sub></td>
-      <td><img src="icons/postman.svg" width="23"><br><strong>Postman</strong><br><sub>Testes de API</sub></td>
-    </tr>
-    <tr>
-      <td><img src="icons/express.svg" width="23"><br><strong>Express</strong><br><sub>Rotas rápidas</sub></td>
-      <td><img src="icons/css.svg" width="23"><br><strong>CSS3</strong><br><sub>Estilização clássica</sub></td>
-      <td><img src="icons/mongo.svg" width="23"><br><strong>MongoDB</strong><br><sub>Schema flexível</sub></td>
-      <td><img src="icons/git.svg" width="23"><br><strong>Git</strong><br><sub>Versionamento</sub></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td><img src="icons/tailwindcss.svg" width="23"><br><strong>Tailwind</strong><br><sub>Estilo utilitário</sub></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td><img src="icons/figma.svg" width="23"><br><strong>Figma</strong><br><sub>Protótipos ágeis</sub></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+<div align=center style="background-color:rgba(1, 15, 35, 0.11); padding: 20px; border-radius : 10px; margin: 20px 0px; text-spacing : 10px;">
 
+<span title="Backend - Python (Scraping e bots)"><img src="icons/python.svg" width="40"></span>
+<span title="Backend - Node.js (APIs e automações)"><img src="icons/nodejs.svg" width="40"></span>
+<span title="Backend - Express (Rotas rápidas)"><img src="icons/express.svg" width="40"></span>
+<span title="Frontend - React (Interfaces dinâmicas)"><img src="icons/react.svg" width="40"></span>
+<span title="Frontend - JavaScript (DOM e lógica)"><img src="icons/javascript.svg" width="40"></span>
+<span title="Frontend - CSS3 (Estilização clássica)"><img src="icons/css.svg" width="40"></span>
+<span title="Frontend - Tailwind (Estilo utilitário)"><img src="icons/tailwindcss.svg" width="40"></span>
+<span title="Frontend - Figma (Protótipos ágeis)"><img src="icons/figma.svg" width="40"></span>
+<span title="Banco de Dados - Oracle (Sistemas legados)"><img src="icons/oracle.svg" width="40"></span>
+<span title="Banco de Dados - SQLite (Projetos locais)"><img src="icons/sqlite.svg" width="40"></span>
+<span title="Banco de Dados - MongoDB (Schema flexível)"><img src="icons/mongo.svg" width="40"></span>
+<span title="Ferramenta - Docker (Containers e testes)"><img src="icons/docker.svg" width="40"></span>
+<span title="Ferramenta - Postman (Testes de API)"><img src="icons/postman.svg" width="40"></span>
+<span title="Ferramenta - Git (Versionamento)"><img src="icons/git.svg" width="40"></span>
+</div>
 
 
 <h1 style="font-size: 2.3rem; color: white; font-weight: bold;">
 ✨ Projetos em destaque
 </h1>
 
-<p style="font-size: 16px;">
+<p style="font-size: 18px; background-color: #0233; padding : 10px;">
   <strong>Próton ERP</strong><br>
   Automação de processos no ERP Próton, desenvolvida em JavaScript para tornar o suporte mais eficiente. 
   Utiliza <strong>Node.js</strong> na API de consulta, integra-se a um banco <strong>Oracle</strong>, roda seu microserviço de backend em <strong>Docker</strong> e entrega ao cliente uma interface responsiva em <strong>ReactJS</strong>.
@@ -90,7 +64,7 @@ Um pouco das tecnologias que eu já conheço e estou conheçendo.
 
 ***
 
-<p style="font-size: 16px;">
+<p style="font-size: 18px; background-color: #0233; padding : 10px;">
   <strong>EstoqueFácil App</strong><br>
   App de contagem de estoque com leitura de planilhas e scanner de códigos de barras. 
   Desenvolvido em <strong>React Native</strong>, com toda lógica em <strong>JavaScript</strong>, 
@@ -101,7 +75,7 @@ Um pouco das tecnologias que eu já conheço e estou conheçendo.
 
 ***
 
-<p style="font-size: 16px;">
+<p style="font-size: 18px; background-color: #0233; padding : 10px;">
   <strong>Avaliali, Client, Dashboard</strong><br>
   Sistema completo de avaliação de clientes com painel frontend integrado à API.  
   Construído em <strong>PHP</strong> (API e regras de negócio), com banco <strong>MySQL</strong>,  
@@ -123,8 +97,5 @@ Um pouco das tecnologias que eu já conheço e estou conheçendo.
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxsuelOliveira)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@MaxDavid#7163)
 [![Rocketseat](https://img.shields.io/badge/Rocketseat-7159C1?style=for-the-badge&logo=rocketseat&logoColor=white)](https://app.rocketseat.com.br/me/md-04583)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@oliveiraMaxsuel)
+[![Telegram](https://img.shields.io/badge/Telegram-40A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@oliveiraMaxsuel)
 </div>
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="maxsueloliveiradev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/maxsueloliveiradev?trk=profile-badge">Maxsuel David Oliveira</a></div>
-              
