@@ -33,16 +33,49 @@ Olá! Sou <b>Maxsuel David</b>, dev apaixonado por tecnologia — comecei com sc
 Um pouco das tecnologias que eu já conheço e estou conheçendo.
 </p>
 
-<div style="width: 1000%">
+<table style="width:100%; text-align:center;">
+  <thead>
+    <tr>
+      <th>🛠️ <strong>Backend</strong></th>
+      <th>🎨 <strong>Frontend</strong></th>
+      <th>🗄️ <strong>Banco de Dados</strong></th>
+      <th>⚙️ <strong>Ferramentas</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="icons/python.svg" width="23"><br><strong>Python</strong><br><sub>Scraping e bots</sub></td>
+      <td><img src="icons/react.svg" width="23"><br><strong>React</strong><br><sub>Interfaces dinâmicas</sub></td>
+      <td><img src="icons/oracle.svg" width="23"><br><strong>Oracle</strong><br><sub>Sistemas legados</sub></td>
+      <td><img src="icons/docker.svg" width="23"><br><strong>Docker</strong><br><sub>Containers e testes</sub></td>
+    </tr>
+    <tr>
+      <td><img src="icons/nodejs.svg" width="23"><br><strong>Node.js</strong><br><sub>APIs e automações</sub></td>
+      <td><img src="icons/javascript.svg" width="23"><br><strong>JavaScript</strong><br><sub>DOM e lógica</sub></td>
+      <td><img src="icons/sqlite.svg" width="23"><br><strong>SQLite</strong><br><sub>Projetos locais</sub></td>
+      <td><img src="icons/postman.svg" width="23"><br><strong>Postman</strong><br><sub>Testes de API</sub></td>
+    </tr>
+    <tr>
+      <td><img src="icons/express.svg" width="23"><br><strong>Express</strong><br><sub>Rotas rápidas</sub></td>
+      <td><img src="icons/css.svg" width="23"><br><strong>CSS3</strong><br><sub>Estilização clássica</sub></td>
+      <td><img src="icons/mongo.svg" width="23"><br><strong>MongoDB</strong><br><sub>Schema flexível</sub></td>
+      <td><img src="icons/git.svg" width="23"><br><strong>Git</strong><br><sub>Versionamento</sub></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><img src="icons/tailwindcss.svg" width="23"><br><strong>Tailwind</strong><br><sub>Estilo utilitário</sub></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><img src="icons/figma.svg" width="23"><br><strong>Figma</strong><br><sub>Protótipos ágeis</sub></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-| 🛠️ <b>Backend<b> | 🎨 <b>Frontend<b> | 🗄️ <b>Banco de Dados<b> | ⚙️ <b>Ferramentas<b> |
-|----------------|----------------|------------------------|--------------------|
-| <img src="icons/python.svg" width="23"> <b>Python<b><br><sub>Scraping e bots</sub> | <img src="icons/react.svg" width="23"> <b>React<b><br><sub>Interfaces dinâmicas</sub> | <img src="icons/oracle.svg" width="23"> <b>Oracle<b><br><sub>Sistemas legados</sub> | <img src="icons/docker.svg" width="23"> <b>Docker<b><br><sub>Containers e testes</sub> |
-| <img src="icons/nodejs.svg" width="23"> <b>Node.js<b><br><sub>APIs e automações</sub> | <img src="icons/javascript.svg" width="23"> <b>JavaScript<b><br><sub>DOM e lógica</sub> | <img src="icons/sqlite.svg" width="23"> <b>SQLite<b><br><sub>Projetos locais</sub> | <img src="icons/postman.svg" width="23"> <b>Postman<b><br><sub>Testes de API</sub> |
-| <img src="icons/express.svg" width="23"> <b>Express<b><br><sub>Rotas rápidas</sub> | <img src="icons/css.svg" width="23"> <b>CSS3<b><br><sub>Estilização clássica</sub> | <img src="icons/mongo.svg" width="23"> <b>MongoDB<b><br><sub>Schema flexível</sub> | <img src="icons/git.svg" width="23"> <b>Git<b><br><sub>Versionamento</sub> |
-|                | <img src="icons/tailwindcss.svg" width="23"> <b>Tailwind CSS<b><br><sub>Estilo utilitário</sub> |                        |                    |
-|                | <img src="icons/figma.svg" width="23"> <b>Figma<b><br><sub>Protótipos ágeis</sub> |                        |                    |
-</div>
 
 
 <h1 style="font-size: 2.3rem; color: white; font-weight: bold;">
@@ -79,17 +112,16 @@ Um pouco das tecnologias que eu já conheço e estou conheçendo.
 
 ***
 
-<div align=center>
+<div align=center id="footer-default">
 <h1 style="font-size: 2.3rem; color: white; font-weight: bold;">
   🚀  Rocketseat
 </h1>
 <p>Há tempos sonho em fazer parte da Rocketseat. Em 2025, finalmente me tornei aluno — e quem sabe, em breve, algo ainda maior aconteça, né @rocketseat? <a href="https://app.rocketseat.com.br/me/md-04583" title="Dá um pulo aqui" target="new_blank">🚀 Acompanhe minha jornada por aqui!</a></p>
 
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxsuelOliveira)
-[![Discord](https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/)
-[![Rocketseat](https://img.shields.io/badge/Rocketseat-181717?style=for-the-badge&logo=rocketseat&logoColor=white)](https://app.rocketseat.com.br/me/md-04583)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxsuelOliveiradev/?utm_source=rocketseat&utm_medium=organic&utm_campaign=profile&utm_term=share&utm_content=md-04583-links)
+[![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxsuelOliveira)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@MaxDavid#7163)
+[![Rocketseat](https://img.shields.io/badge/Rocketseat-7159C1?style=for-the-badge&logo=rocketseat&logoColor=white)](https://app.rocketseat.com.br/me/md-04583)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@oliveiraMaxsuel)
 </div>
