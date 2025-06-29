@@ -7,7 +7,7 @@
 
   <p align="center" style="font-weight: 600; margin-top:10px;  font-weight: 500;
   font-size: 18px;">
-    💻 Develop FullStack JavaScript | React JS | React Native | Node.js | Microservices | Python | RPA.
+    💻 Desenvolvedor FullStack | JS | Python
   </p>
 
 </div>
@@ -125,3 +125,6 @@ Um pouco das tecnologias que eu já conheço e estou conheçendo.
 [![Rocketseat](https://img.shields.io/badge/Rocketseat-7159C1?style=for-the-badge&logo=rocketseat&logoColor=white)](https://app.rocketseat.com.br/me/md-04583)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@oliveiraMaxsuel)
 </div>
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="maxsueloliveiradev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/maxsueloliveiradev?trk=profile-badge">Maxsuel David Oliveira</a></div>
+              
