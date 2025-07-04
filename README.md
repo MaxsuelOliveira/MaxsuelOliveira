@@ -6,7 +6,7 @@
 
   <p align="center" style="font-weight: 600; margin-top:10px;  font-weight: 500;
   font-size: 18px;">
-    💻 Desenvolvedor FullStack | JS | Python
+    💻 FullStack Developer | JS | Python
   </p>
 
 </div>
@@ -19,56 +19,57 @@
 </p>
 
 
-<h1 style="font-size: 2.3rem; color: white; font-weight: bold; border-color:transparent;">👨‍💻 Sobre mim</h1>
+<h1 style="font-size: 2.3rem; color: white; font-weight: bold; border-color:transparent;">👨‍💻 About Me</h1>
 
 <p style="font-size: 18px;">
-Olá! Sou <b>Maxsuel David</b>, dev apaixonado por tecnologia — comecei com scripts `.bat` e Google Sites, mergulhei em <b>HTML & PHP</b>, fiz meus primeiros freelas em meados de 2016/2017 com <b>HTML/CSS, PHP, MySQL & JavaScript</b>, criei sistemas de delivery, gestão de óticas e plataformas de avaliação; em 2025, foco total em </b>backend (JavaScript)</b> e <b>RPA</b>. “Não somos uma `const`: tudo muda, tudo evolui.” 🚀
+Hi! I'm <b>Maxsuel David</b>, a dev passionate about technology — I started with `.bat` scripts and Google Sites, dove into <b>HTML & PHP</b>, and did my first freelance projects around 2016/2017 using <b>HTML/CSS, PHP, MySQL & JavaScript</b>. I've built delivery systems, optical store management tools, and evaluation platforms. In 2025, I'm fully focused on <b>backend (JavaScript)</b> and <b>RPA</b>. “We are not a `const`: everything changes, everything evolves.” 🚀
 </p>
 
 
-<h1 style="font-size: 2.3rem; color: white; font-weight: bold; border-color:transparent;">🚀 Tecnologias</h1>
+<h1 style="font-size: 2.3rem; color: white; font-weight: bold; border-color:transparent;">🚀 Technologies</h1>
 
 <p style="font-size : 18px">
-Um pouco das tecnologias que eu já conheço e estou conheçendo.
+A glimpse of the technologies I already know and the ones I'm currently learning.
 </p>
 
 <div align=center style="background-color:rgba(1, 15, 35, 0.11); padding: 20px; border-radius : 10px; margin: 20px 0px; text-spacing : 10px;">
 
-<span title="Backend - Python (Scraping e bots)"><img src="icons/python.svg" width="40"></span>
-<span title="Backend - Node.js (APIs e automações)"><img src="icons/nodejs.svg" width="40"></span>
-<span title="Backend - Express (Rotas rápidas)"><img src="icons/express.svg" width="40"></span>
-<span title="Frontend - React (Interfaces dinâmicas)"><img src="icons/react.svg" width="40"></span>
-<span title="Frontend - JavaScript (DOM e lógica)"><img src="icons/javascript.svg" width="40"></span>
-<span title="Frontend - CSS3 (Estilização clássica)"><img src="icons/css.svg" width="40"></span>
-<span title="Frontend - Tailwind (Estilo utilitário)"><img src="icons/tailwindcss.svg" width="40"></span>
-<span title="Frontend - Figma (Protótipos ágeis)"><img src="icons/figma.svg" width="40"></span>
-<span title="Banco de Dados - Oracle (Sistemas legados)"><img src="icons/oracle.svg" width="40"></span>
-<span title="Banco de Dados - SQLite (Projetos locais)"><img src="icons/sqlite.svg" width="40"></span>
-<span title="Banco de Dados - MongoDB (Schema flexível)"><img src="icons/mongo.svg" width="40"></span>
-<span title="Ferramenta - Docker (Containers e testes)"><img src="icons/docker.svg" width="40"></span>
-<span title="Ferramenta - Postman (Testes de API)"><img src="icons/postman.svg" width="40"></span>
-<span title="Ferramenta - Git (Versionamento)"><img src="icons/git.svg" width="40"></span>
+<span title="Backend - Python (Scraping and bots)"><img src="icons/python.svg" width="40"></span>
+<span title="Backend - Node.js (APIs and automation)"><img src="icons/nodejs.svg" width="40"></span>
+<span title="Backend - Express (Fast routing)"><img src="icons/express.svg" width="40"></span>
+<span title="Frontend - React (Dynamic interfaces)"><img src="icons/react.svg" width="40"></span>
+<span title="Frontend - JavaScript (DOM and logic)"><img src="icons/javascript.svg" width="40"></span>
+<span title="Frontend - CSS3 (Classic styling)"><img src="icons/css.svg" width="40"></span>
+<span title="Frontend - Tailwind (Utility-first styling)"><img src="icons/tailwindcss.svg" width="40"></span>
+<span title="Frontend - Figma (Agile prototyping)"><img src="icons/figma.svg" width="40"></span>
+<span title="Database - Oracle (Legacy systems)"><img src="icons/oracle.svg" width="40"></span>
+<span title="Database - SQLite (Local projects)"><img src="icons/sqlite.svg" width="40"></span>
+<span title="Database - MongoDB (Flexible schema)"><img src="icons/mongo.svg" width="40"></span>
+<span title="Tool - Docker (Containers and testing)"><img src="icons/docker.svg" width="40"></span>
+<span title="Tool - Postman (API testing)"><img src="icons/postman.svg" width="40"></span>
+<span title="Tool - Git (Version control)"><img src="icons/git.svg" width="40"></span>
 </div>
 
 
 <h1 style="font-size: 2.3rem; color: white; font-weight: bold;">
-✨ Projetos em destaque
+✨ Highlight Projects
 </h1>
 
 <p style="font-size: 18px; background-color: #0233; padding : 10px;">
   <strong>Próton ERP</strong><br>
-  Automação de processos no ERP Próton, desenvolvida em JavaScript para tornar o suporte mais eficiente. 
-  Utiliza <strong>Node.js</strong> na API de consulta, integra-se a um banco <strong>Oracle</strong>, roda seu microserviço de backend em <strong>Docker</strong> e entrega ao cliente uma interface responsiva em <strong>ReactJS</strong>.
+  Process automation in the Próton ERP, built in JavaScript to streamline support operations. 
+  Uses <strong>Node.js</strong> for its API, integrates with an <strong>Oracle</strong> database, 
+  runs its backend microservice inside <strong>Docker</strong>, and delivers a responsive interface in <strong>ReactJS</strong>.
 </p>
 
 ***
 
 <p style="font-size: 18px; background-color: #0233; padding : 10px;">
   <strong>EstoqueFácil App</strong><br>
-  App de contagem de estoque com leitura de planilhas e scanner de códigos de barras. 
-  Desenvolvido em <strong>React Native</strong>, com toda lógica em <strong>JavaScript</strong>, 
-  importação e leitura de planilhas via <strong>XLSX</strong>, 
-  build rápido e testes no celular com <strong>Expo</strong> e armazenamento em <strong>MongoDB</strong>.
+  Inventory counting app with spreadsheet reading and barcode scanner. 
+  Developed in <strong>React Native</strong>, with full logic in <strong>JavaScript</strong>, 
+  spreadsheet import and reading via <strong>XLSX</strong>, 
+  quick builds and testing on mobile with <strong>Expo</strong>, and storage in <strong>MongoDB</strong>.
 </p>
 
 
@@ -76,10 +77,10 @@ Um pouco das tecnologias que eu já conheço e estou conheçendo.
 
 <p style="font-size: 18px; background-color: #0233; padding : 10px;">
   <strong>Avaliali, Client, Dashboard</strong><br>
-  Sistema completo de avaliação de clientes com painel frontend integrado à API.  
-  Construído em <strong>PHP</strong> (API e regras de negócio), com banco <strong>MySQL</strong>,  
-  frontend em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>Bootstrap</strong>,  
-  e em breve migrando para <strong>ReactJS</strong>.
+  Full client evaluation system with integrated frontend dashboard.  
+  Built in <strong>PHP</strong> (API and business logic), using <strong>MySQL</strong> database,  
+  frontend in <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>Bootstrap</strong>,  
+  and soon migrating to <strong>ReactJS</strong>.
 </p>
 
 
@@ -89,7 +90,7 @@ Um pouco das tecnologias que eu já conheço e estou conheçendo.
 <h1 style="font-size: 2.3rem; color: white; font-weight: bold;">
   🚀  Rocketseat
 </h1>
-<p>Há tempos sonho em fazer parte da Rocketseat. Em 2025, finalmente me tornei aluno — e quem sabe, em breve, algo ainda maior aconteça, né @rocketseat? <a href="https://app.rocketseat.com.br/me/md-04583" title="Dá um pulo aqui" target="new_blank">🚀 Acompanhe minha jornada por aqui!</a></p>
+<p>For a long time I’ve dreamed of being part of Rocketseat. In 2025, I finally became a student — and who knows, maybe something even bigger is on the horizon, right @rocketseat? <a href="https://app.rocketseat.com.br/me/md-04583" title="Check it out here" target="new_blank">🚀 Follow my journey here!</a></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxsuelOliveiradev/?utm_source=rocketseat&utm_medium=organic&utm_campaign=profile&utm_term=share&utm_content=md-04583-links)
 [![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david_o.santos/)
