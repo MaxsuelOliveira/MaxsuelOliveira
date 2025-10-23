@@ -23,55 +23,11 @@
   <!-- Projetos -->
   <h2 style="font-size:1.8rem; font-weight:bold; margin-top:30px;">✨ Projetos em Destaque</h2>
 
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; max-width:1000px; margin:auto;">
-
-    <!-- Card Projeto -->
-    <div style="background-color:#161b22; padding:20px; border-radius:12px; width:280px; transition: transform 0.3s; text-align:left;" 
-         onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-      <b>FilaFácil</b>
-      <ul>
-        <li>Sistema de gestão e automação de filas</li>
-        <li>Frontend: React | Backend: Node.js</li>
-      </ul>
-    </div>
-
-    <div style="background-color:#161b22; padding:20px; border-radius:12px; width:280px; transition: transform 0.3s; text-align:left;"
-         onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-      <b>Brainbox API</b>
-      <ul>
-        <li>API para integração e automação de dados internos</li>
-        <li>Node.js | Express | MongoDB</li>
-      </ul>
-    </div>
-
-    <div style="background-color:#161b22; padding:20px; border-radius:12px; width:280px; transition: transform 0.3s; text-align:left;"
-         onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-      <b>Próton ERP</b>
-      <ul>
-        <li>Automação reduzindo tempo de suporte em 40%</li>
-        <li>Node.js + Docker | ReactJS | Oracle</li>
-      </ul>
-    </div>
-
-    <div style="background-color:#161b22; padding:20px; border-radius:12px; width:280px; transition: transform 0.3s; text-align:left;"
-         onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-      <b>EstoqueFácil App</b>
-      <ul>
-        <li>App de inventário com planilhas e scanner</li>
-        <li>React Native + JS | MongoDB | Expo</li>
-      </ul>
-    </div>
-
-    <div style="background-color:#161b22; padding:20px; border-radius:12px; width:280px; transition: transform 0.3s; text-align:left;"
-         onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-      <b>Avaliali Dashboard</b>
-      <ul>
-        <li>Plataforma de avaliação de clientes</li>
-        <li>PHP + MySQL | Frontend: HTML/CSS/JS | Migrando para ReactJS</li>
-      </ul>
-    </div>
-
-  </div>
+<p align="center">
+  <img src="projetos.gif" width="500" alt="Exemplo do projeto FilaFácil">
+  <br>
+  Demonstração rápida do FilaFácil
+</p>
 
   <!-- Contatos -->
   <h2 style="font-size:1.8rem; font-weight:bold; margin-top:40px;">📬 Contato & Redes</h2>
