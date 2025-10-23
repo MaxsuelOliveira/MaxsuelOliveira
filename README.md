@@ -8,7 +8,7 @@
 ## 🛠 Tecnologias
 <p align="center">
 <img src="icons/js.svg" width="40">  
-<img src="icons/react.svg" width="40">  
+<img src="icons/reactjs.svg" width="40">  
 <img src="icons/nodejs.svg" width="40">  
 <img src="icons/python.svg" width="40">  
 <img src="icons/docker.svg" width="40">  
