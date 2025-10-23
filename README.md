@@ -7,7 +7,7 @@
 
 ## 🛠 Tecnologias
 <p align="center">
-<img src="icons/javascript.svg" width="40">  
+<img src="icons/js.svg" width="40">  
 <img src="icons/react.svg" width="40">  
 <img src="icons/nodejs.svg" width="40">  
 <img src="icons/python.svg" width="40">  
@@ -18,6 +18,7 @@
 ---
 
 ## ✨ Projetos
+- *Helpdesk* - Gestao de atendimentos para multiplos usuarios via whastapp. (Node.js, Express, Primas, Oracle, ReactJS, TailwindCss)  
 - **FilaFácil** – Reduziu em 30% o tempo de espera. (React, Node.js, MongoDB)  
 - **Brainbox API** – Economizou 10h/semana em processos manuais. (Node.js, Express, MongoDB)  
 - **Próton ERP** – Aumentou produtividade em 40%. (Node.js, Docker, ReactJS, Oracle)  
