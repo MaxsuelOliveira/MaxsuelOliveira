@@ -14,14 +14,11 @@
   <img src="icons/git.svg" width="40" title="Git" style="margin:0 8px;">
 </p>
 
----
-
 ## 👨‍💻 Sobre Mim
 
 Sou apaixonado por tecnologia e automação. Comecei com scripts `.bat` e Google Sites, evoluí para **HTML, PHP, JS e MySQL** e desde 2016 construo projetos próprios e freelances.  
 Hoje, foco em **backend (Node.js)** e **RPA**, sempre entregando soluções eficientes e escaláveis.
 
----
 
 ## ✨ Projetos em Destaque
 
@@ -59,13 +56,12 @@ Hoje, foco em **backend (Node.js)** e **RPA**, sempre entregando soluções efic
 
 </div>
 
----
 
 ## 📬 Contato & Redes
 
-<p align="center">
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxsuelOliveiradev/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxsuelOliveira)  
 [![Telegram](https://img.shields.io/badge/Telegram-40A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@oliveiraMaxsuel)  
 [![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david_o.santos/)
-</p>
+</div>
