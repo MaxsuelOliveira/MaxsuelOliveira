@@ -24,7 +24,7 @@
   <h2 style="font-size:1.8rem; font-weight:bold; margin-top:30px;">✨ Projetos em Destaque</h2>
 
 <p align="center">
-  <img src="projetos.gif" width="500" alt="Exemplo do projeto FilaFácil">
+  <img src="projetos.gif" width="1000" alt="Exemplo do projeto FilaFácil">
   <br>
   Demonstração rápida do FilaFácil
 </p>
