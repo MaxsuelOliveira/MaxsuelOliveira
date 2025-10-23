@@ -30,14 +30,6 @@ Sou um apaixonado por tecnologia e automação. Tenho experiência com front-end
 - **EstoqueFácil App** — Aplicativo mobile para gerenciamento de estoque com leitura e validação de códigos de barras; reduziu erros no fechamento de inventário. (React Native, Expo, MongoDB)
 - **Avaliali** — Sistema de avaliação e feedback de usuários, com painéis de análise para gestores. (PHP, MySQL, Bootstrap)
 
----
-
-## ✨ Projetos para aprendizado
-
-- **FilaFácil** — SPA para gerenciamento de filas e chamados, com redução de ~30% no tempo de espera em testes de uso. (React, Node.js, MongoDB)
-- **Brainbox** — Base de conhecimento e FAQ para equipes e clientes, acelera a resolução de problemas repetitivos. (Node.js, Express, MongoDB)
-
----
 
 ## 🏆 Conquistas
 
