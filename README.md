@@ -1,41 +1,54 @@
-# MaxsuelOliveira
+## Hey, I am Maxsuel David
 
-![stack](https://img.shields.io/badge/stack-React-1f6feb) ![focus](https://img.shields.io/badge/focus-React-0f766e) ![status](https://img.shields.io/badge/status-perfil-2ea44f)
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, repudiandae. Eum temporibus voluptate praesentium magnam?
 
-Repositório do perfil GitHub com README e imagens públicas. Este repositório funciona como ponto central da apresentação do perfil e da curadoria técnica dos principais projetos publicados.
+<div style="display: flex; gap: 10px; width: 100%; height: auto; margin-bottom: 10px;">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MaxsuelOliveira&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MaxsuelOliveira&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxsuelOliveira&show_icons=true" height="400px" width="100%" />
+</picture>
+<div style="width: 50%; padding: 20px; height: auto; border-radius: 5px; background: radial-gradient(#22123D, #151515); display: flex; flex-direction: column; align-items: start; justify-content: end;">
+    <h3 style="color: #9F9F9F; margin: 0;">Visit website</h3>
+    <a href="https://maxsueldavid.site" target="_blank" class="big-font" style="color: #fff; font-size: 28px; width: calc(100% - 40px); line-height: 32px;">https://maxsueldavid.site</a>
+</div>
+</div>
 
-## Visão geral
+[![Have a look at MaxsuelOliveira Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theshiveshnetwork)](https://holopin.me/theshiveshnetwork)
 
-Este repositório concentra a apresentação do perfil, os links principais e os ativos públicos que apoiam sua presença profissional no GitHub. Ele funciona como ponto de entrada para entender rapidamente a trajetória, os interesses técnicos e os projetos mais relevantes do portfólio.
+## 💻 About me
 
-## Contexto técnico
+Write a short description about yourself. 
+- you can use markdown formats
+        
 
-- Objetivo técnico: Repositório do perfil GitHub com README e imagens públicas..
-- Stack principal identificada: React.
+## 👨‍💻 Languages
 
-## Stack principal
+<div style="display: flex; align-items: center; justify-content: center;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
+</div>
+<div style="display: flex; align-items: center; justify-content: center;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxsuelOliveira&layout=compact&theme=vision-friendly-dark" alt="top-languages" />
+</div>
 
-- React
-- Node.js
-- Python
-- TypeScript
 
-## Arquitetura e implementação
+## 🏆 Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MaxsuelOliveira&theme=dark_lover" alt="github-trophies" />
+</div>
 
-- Escopo principal: Repositório do perfil GitHub com README e imagens públicas.
-- Stack central: React.
-- Temas centrais trabalhados neste repositório: github-profile, profile, readme.
+## 🔥 Streak
 
-## Como executar
-
-- Não se aplica. Este repositório centraliza o README do perfil e os ativos públicos usados na apresentação.
-
-## Status
-
-- Estado atual: perfil.
-- Repositório pronto para revisão técnica, navegação e evolução contínua.
-- Documentação alinhada ao template base atual do portfólio.
-
-## Contato
-
-Se quiser conversar sobre este projeto, fale comigo no [LinkedIn](https://www.linkedin.com/in/maxsuelOliveiradev/) ou veja mais projetos no [GitHub](https://github.com/MaxsuelOliveira).
+<div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%; height: auto; margin-bottom: 10px;">
+<img src="https://streak-stats.demolab.com?user=TheShiveshNetwork&theme=highcontrast" alt="github-streak" />
+<div style="width: calc(50% - 40px); padding: 20px; height: auto; border-radius: 5px; background: radial-gradient(#22123D, #151515); display: flex; flex-direction: column; align-items: start; justify-content: end;">
+    <h3 style="color: #9F9F9F; margin: 0;">Support</h3>
+    <a href="https://maxsueldavid.site" target="_blank" style="color: #fff; font-size: 28px; width: calc(100% - 40px); line-height: 32px;">https://maxsueldavid.site</a>
+</div>
+</div>
