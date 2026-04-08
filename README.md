@@ -2,32 +2,34 @@
 
 ![stack](https://img.shields.io/badge/stack-React-1f6feb) ![focus](https://img.shields.io/badge/focus-React-0f766e) ![status](https://img.shields.io/badge/status-perfil-2ea44f)
 
-Repositório do perfil GitHub com README e imagens públicas.
+Repositório do perfil GitHub com README e imagens públicas. Este repositório funciona como ponto central da apresentação do perfil e da curadoria pública dos principais projetos.
 
-## Visao geral
+## Visão geral
 
-Este repositorio concentra a apresentacao do perfil, os links principais e os ativos publicos que apoiam sua presenca no GitHub.
+Este repositório concentra a apresentação do perfil, os links principais e os ativos públicos que apoiam sua presença profissional no GitHub. Ele serve como ponto de entrada para entender rapidamente a trajetória, os interesses técnicos e os projetos mais relevantes do portfólio.
 
-## Stack
+## O que este projeto entrega
+
+- Escopo principal: Repositório do perfil GitHub com README e imagens públicas.
+- Stack central: React.
+- Temas centrais trabalhados neste repositório: github-profile, profile, readme.
+
+## Stack e execução
 
 - React
 - Node.js
 - Python
 - TypeScript
 
-## Destaques
-
-- Repositório do perfil GitHub com README e imagens públicas.
-- Temas centrais: github-profile, profile, readme.
-
 ## Como executar
 
-- Nao se aplica. Este repositorio centraliza o README do perfil e ativos publicos.
+- Não se aplica. Este repositório centraliza o README do perfil e os ativos públicos usados na apresentação.
 
 ## Status
 
 - Estado atual: perfil.
-- Repositorio pronto para revisao tecnica e navegacao rapida.
+- Repositório pronto para revisão técnica, navegação e evolução contínua.
+- Documentação alinhada ao template base atual do portfólio.
 
 ## Contato
 
