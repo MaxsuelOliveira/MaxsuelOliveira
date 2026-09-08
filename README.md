@@ -1,58 +1,92 @@
 <div align="center">
 
-<img width="100%" src="./assets/terminal-header.svg" alt="Maxsuel Oliveira — Secure Software, AI, RPA and SaaS" />
+<img width="100%" src="./assets/terminal-header.svg" alt="Maxsuel Oliveira — Full Stack Software Engineer, SaaS, RPA and AI" />
 
 <br/>
 
 <a href="https://github.com/MaxsuelOliveira">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Engenharia+de+software+segura+por+padr%C3%A3o;SaaS+multiempresa+pronto+para+escalar;RPA+para+eliminar+processos+manuais;IA+aplicada+a+produtos+e+opera%C3%A7%C3%B5es" alt="Apresentação animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=650&color=38BDF8&center=true&vCenter=true&width=920&lines=Full+Stack+development+from+idea+to+production;SaaS+platforms+built+to+scale;RPA+that+turns+manual+work+into+software;AI+integrated+into+real+products" alt="Apresentação animada" />
 </a>
 
 <br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=MaxsuelOliveira&color=22c55e&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/MaxsuelOliveira)
-[![Followers](https://img.shields.io/github/followers/MaxsuelOliveira?style=for-the-badge&logo=github&color=111827&labelColor=030712)](https://github.com/MaxsuelOliveira?tab=followers)
-[![Open to work](https://img.shields.io/badge/OPEN_TO-PROJECTS-22C55E?style=for-the-badge&labelColor=030712)](https://github.com/MaxsuelOliveira)
+[![Profile views](https://komarev.com/ghpvc/?username=MaxsuelOliveira&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/MaxsuelOliveira)
+[![Followers](https://img.shields.io/github/followers/MaxsuelOliveira?style=for-the-badge&logo=github&color=4F46E5&labelColor=111827)](https://github.com/MaxsuelOliveira?tab=followers)
+[![Building](https://img.shields.io/badge/STATUS-BUILDING_PRODUCTS-10B981?style=for-the-badge&labelColor=111827)](https://github.com/MaxsuelOliveira)
 
 </div>
 
 ---
 
-## `$ cat about.json`
+## `$ cat developer.ts`
 
-```json
-{
-  "name": "Maxsuel Oliveira",
-  "role": "Senior Full Stack Software Engineer",
-  "focus": ["Secure Development", "Artificial Intelligence", "RPA", "SaaS"],
-  "mission": "Transform complex operations into secure, scalable and intelligent products",
-  "principles": ["security by design", "simple UX", "automation", "observability"],
-  "status": "building systems that work in the real world"
-}
+```ts
+const maxsuel = {
+  role: "Senior Full Stack Software Engineer",
+  builds: ["SaaS platforms", "RPA automations", "AI-powered products"],
+  worksWith: ["Web", "APIs", "Databases", "Infrastructure", "Integrations"],
+  approach: "Understand the business, design the architecture, ship the product",
+  currentFocus:X: "Turning complex operations into simple software"
+};
 ```
 
-Desenvolvo produtos digitais de ponta a ponta — da arquitetura, APIs e banco de dados à interface, infraestrutura e implantação. Minha especialidade é converter processos manuais e regras complexas de negócio em **SaaS**, **automações RPA** e **soluções com IA**, mantendo segurança, rastreabilidade e facilidade de manutenção.
+Sou desenvolvedor Full Stack e construo produtos digitais de ponta a ponta: entendimento do problema, arquitetura, backend, frontend, banco de dados, integrações, infraestrutura e evolução em produção.
+
+Meu foco está em criar **SaaS multiempresa**, **automações RPA** e **produtos com inteligência artificial** que simplificam operações reais. Segurança faz parte da engenharia, mas o centro do meu trabalho é **desenvolver produtos úteis, escaláveis e fáceis de manter**.
+
+## `$ ./what-i-build`
 
 <table>
 <tr>
-<td width="25%" align="center"><h3>🛡️ Secure Dev</h3><sub>Autenticação, autorização, proteção de dados, auditoria e segurança desde a arquitetura.</sub></td>
-<td width="25%" align="center"><h3>🤖 AI Engineering</h3><sub>Agentes, LLMs, RAG, processamento inteligente e IA integrada ao produto.</sub></td>
-<td width="25%" align="center"><h3>⚙️ RPA</h3><sub>Automação resiliente de tarefas, navegadores, documentos, APIs e operações.</sub></td>
-<td width="25%" align="center"><h3>☁️ SaaS</h3><sub>Multi-tenancy, assinaturas, permissões, dashboards e integrações escaláveis.</sub></td>
+<td width="25%" align="center" valign="top">
+<h3>☁️ SaaS</h3>
+<sub>Plataformas multiempresa, dashboards, assinaturas, permissões e produtos recorrentes.</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<h3>⚙️ RPA</h3>
+<sub>Automação de navegadores, documentos, rotinas administrativas, APIs e fluxos operacionais.</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<h3>🤖 AI Products</h3>
+<sub>Agentes, assistentes, processamento inteligente e IA incorporada à experiência do produto.</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<h3>🔌 Integrations</h3>
+<sub>APIs, webhooks, mensageria e conexão entre plataformas, serviços e dados.</sub>
+</td>
 </tr>
 </table>
 
-## `$ ls ./toolbox`
+## `$ ls ./stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,express,postgres,redis,prisma,docker,nginx,git,github,linux,windows&perline=8" alt="Tecnologias principais" />
+### Core
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,express,html,css&perline=8" alt="Tecnologias principais" />
+
+### Data, infrastructure & workflow
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,prisma,docker,nginx,git,github,linux&perline=8" alt="Dados e infraestrutura" />
 
 <br/><br/>
 
-`REST APIs` · `Webhooks` · `Multi-tenant` · `RBAC` · `LLM Agents` · `RAG` · `Browser Automation` · `CI/CD` · `Observability`
+`REST APIs` · `Webhooks` · `Multi-tenant` · `RBAC` · `AI Agents` · `Browser Automation` · `CI/CD` · `Observability`
 
 </div>
+
+## `$ tree ./engineering`
+
+```text
+product/
+├── discovery/        # problema, operação e regra de negócio
+├── architecture/     # módulos, dados, contratos e integrações
+├── backend/          # APIs, serviços, filas e automações
+├── frontend/         # interfaces simples para fluxos complexos
+├── intelligence/     # IA, agentes e decisões assistidas
+├── infrastructure/   # deploy, proxy, containers e monitoramento
+└── evolution/        # métricas, feedback e melhoria contínua
+```
 
 ## `$ ./showcase --featured`
 
@@ -60,16 +94,16 @@ Desenvolvo produtos digitais de ponta a ponta — da arquitetura, APIs e banco d
 <tr>
 <td width="50%" valign="top">
 
-### [Agents IA](https://github.com/MaxsuelOliveira/LANDINGPAGE-AGENTS-IA)
+### 🤖 [Agents IA](https://github.com/MaxsuelOliveira/LANDINGPAGE-AGENTS-IA)
 
-Vitrine de soluções inteligentes voltadas à automação de operações e atendimento.
+Apresentação de soluções inteligentes voltadas à automação de operações e atendimento.
 
 `AI Agents` `Automation` `Web`
 
 </td>
 <td width="50%" valign="top">
 
-### [Tarefas Agora](https://github.com/MaxsuelOliveira/app-tarefas-agora)
+### ✅ [Tarefas Agora](https://github.com/MaxsuelOliveira/app-tarefas-agora)
 
 Aplicação de produtividade criada com foco em experiência simples e execução rápida.
 
@@ -80,16 +114,16 @@ Aplicação de produtividade criada com foco em experiência simples e execuçã
 <tr>
 <td width="50%" valign="top">
 
-### [Audiobook Interativo](https://github.com/MaxsuelOliveira/web-audiobook-interativo)
+### 🎧 [Audiobook Interativo](https://github.com/MaxsuelOliveira/web-audiobook-interativo)
 
-Experiência web interativa que une interface, áudio e consumo de conteúdo.
+Experiência web que combina interface, áudio e consumo interativo de conteúdo.
 
 `Interactive Web` `Audio` `Frontend`
 
 </td>
 <td width="50%" valign="top">
 
-### [Minha Agenda](https://github.com/MaxsuelOliveira/app-minha-agenda)
+### 📅 [Minha Agenda](https://github.com/MaxsuelOliveira/app-minha-agenda)
 
 Organização de compromissos e rotinas em uma interface prática e objetiva.
 
@@ -101,61 +135,50 @@ Organização de compromissos e rotinas em uma interface prática e objetiva.
 
 <div align="center">
 
-[![Agents IA](https://github-readme-stats.vercel.app/api/pin/?username=MaxsuelOliveira&repo=LANDINGPAGE-AGENTS-IA&theme=github_dark&hide_border=true&title_color=22C55E&icon_color=22D3EE)](https://github.com/MaxsuelOliveira/LANDINGPAGE-AGENTS-IA)
-[![Audiobook](https://github-readme-stats.vercel.app/api/pin/?username=MaxsuelOliveira&repo=web-audiobook-interativo&theme=github_dark&hide_border=true&title_color=22C55E&icon_color=22D3EE)](https://github.com/MaxsuelOliveira/web-audiobook-interativo)
+[![Agents IA](https://github-readme-stats.vercel.app/api/pin/?username=MaxsuelOliveira&repo=LANDINGPAGE-AGENTS-IA&theme=github_dark&hide_border=true&title_color=38BDF8&icon_color=34D399)](https://github.com/MaxsuelOliveira/LANDINGPAGE-AGENTS-IA)
+[![Audiobook](https://github-readme-stats.vercel.app/api/pin/?username=MaxsuelOliveira&repo=web-audiobook-interativo&theme=github_dark&hide_border=true&title_color=38BDF8&icon_color=34D399)](https://github.com/MaxsuelOliveira/web-audiobook-interativo)
 
 </div>
 
-## `$ security --principles`
+## `$ npm run workflow`
 
 ```text
-┌─ ENGINEERING PROTOCOL ─────────────────────────────────────────┐
-│  [01] Validate every input          [05] Audit critical events │
-│  [02] Apply least privilege         [06] Protect every secret  │
-│  [03] Isolate tenant data           [07] Observe before scaling│
-│  [04] Fail safely and visibly       [08] Automate repeatability│
-└─────────────────────────────────────────────────────────────────┘
+IDEA             ARCHITECTURE         DEVELOPMENT          DELIVERY
+ │                    │                    │                   │
+ ├─ understand ───────┼─ design ──────────┼─ build ───────────┤
+ ├─ simplify ─────────┼─ model ────────────┼─ integrate ───────┤
+ └─ validate ─────────┴─ plan ─────────────┴─ test ─────────────┴─ evolve
 ```
 
-> Segurança não é uma etapa no final do projeto. É uma propriedade construída em cada decisão.
+- Entendo a operação antes de escolher a tecnologia
+- Projeto soluções modulares e preparadas para evolução
+- Desenvolvimento backend e frontend como uma única experiência
+- Automatizo o que é repetitivo, mensurável e sujeito a erro
+- Integro IA quando ela cria valor concreto para o usuário
+- Entrego com logs, monitoramento e manutenção em mente
 
-## `$ github --analytics`
+## `$ git stats --visual`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MaxsuelOliveira&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&title_color=22C55E&icon_color=22D3EE&ring_color=22C55E" alt="Estatísticas do GitHub" />
-<img height="170" src="https://streak-stats.demolab.com?user=MaxsuelOliveira&theme=github-dark-blue&hide_border=true&locale=pt_BR&ring=22C55E&fire=22D3EE&currStreakLabel=22C55E" alt="Sequência de contribuições" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MaxsuelOliveira&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&title_color=38BDF8&icon_color=34D399&ring_color=818CF8" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxsuelOliveira&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&title_color=38BDF8" alt="Linguagens utilizadas" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MaxsuelOliveira&theme=github-compact&hide_border=true&area=true&color=22C55E&line=22D3EE&point=FFFFFF" alt="Gráfico de contribuições" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MaxsuelOliveira&theme=github-compact&hide_border=true&area=true&color=38BDF8&line=818CF8&point=34D399" alt="Gráfico de contribuições" />
 
 </div>
-
-## `$ ./pipeline`
-
-```text
-DISCOVER        DESIGN          BUILD           SECURE          AUTOMATE         SCALE
-   │               │               │               │                │               │
-   └─ problema ────┴─ arquitetura ─┴─ produto ─────┴─ controles ────┴─ RPA + IA ────┘
-```
-
-- Descoberta do problema e das regras reais da operação
-- Arquitetura modular, multiempresa e preparada para integração
-- Desenvolvimento Full Stack com experiência simples
-- Segurança, logs e rastreabilidade incorporados ao fluxo
-- Automação inteligente com tratamento de falhas
-- Implantação, métricas e evolução contínua
 
 ---
 
 <div align="center">
 
-### `root@business:~# turn_complexity_into_product_`
+### `maxsuel@dev:~$ build something useful together_`
 
-Construindo soluções em **SaaS · IA · RPA · Integrações · Software Seguro**
+**SaaS · Full Stack · RPA · Inteligência Artificial · Integrações**
 
-[![Repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-030712?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxsuelOliveira?tab=repositories)
-[![Contact](https://img.shields.io/badge/LET'S_BUILD-22C55E?style=for-the-badge&logo=protonmail&logoColor=030712)](https://github.com/MaxsuelOliveira)
+[![Repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxsuelOliveira?tab=repositories)
+[![Projects](https://img.shields.io/badge/LET'S_BUILD-0284C7?style=for-the-badge&logo=codeforces&logoColor=white)](https://github.com/MaxsuelOliveira)
 
-<sub>Designed as a living engineering profile — secure by design, built to evolve.</sub>
+<sub>From business problem to production-ready software.</sub>
 
 </div>
