@@ -26,7 +26,7 @@ const maxsuel = {
   builds: ["SaaS platforms", "RPA automations", "AI-powered products"],
   worksWith: ["Web", "APIs", "Databases", "Infrastructure", "Integrations"],
   approach: "Understand the business, design the architecture, ship the product",
-  currentFocus:X: "Turning complex operations into simple software"
+  currentFocus: "Turning complex operations into simple software"
 };
 ```
 
