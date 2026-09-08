@@ -34,6 +34,28 @@ Sou desenvolvedor Full Stack e construo produtos digitais de ponta a ponta: ente
 
 Meu foco está em criar **SaaS multiempresa**, **automações RPA** e **produtos com inteligência artificial** que simplificam operações reais. Segurança faz parte da engenharia, mas o centro do meu trabalho é **desenvolver produtos úteis, escaláveis e fáceis de manter**.
 
+## `$ ./products --founder`
+
+<div align="center">
+
+<img width="100%" src="./assets/products-showcase.svg" alt="Produtos criados por Maxsuel Oliveira" />
+
+</div>
+
+Além de desenvolver software, atuo como **fundador e responsável pelo produto** em três soluções que transformam operações reais:
+
+| Produto | O que construímos | Acessar |
+|---|---|---|
+| 💬 **ZapeDesk** | Plataforma de atendimento omnichannel, automações e gestão de conversas com clientes. | [zapedesk.com.br](https://zapedesk.com.br) |
+| 🧠 **Carbonato Chat** | Automação de atendimento e fluxos inteligentes com inteligência artificial. | [carbonatochat.com.br](https://carbonatochat.com.br) |
+| 📊 **LigaAI ERP** | ERP para centralizar vendas, estoque, financeiro e gestão empresarial. | [Conhecer o LigaAI ERP](http://ligaaierp.lvempreendimentosbahia.com.br/) |
+
+<div align="center">
+
+<img width="100%" src="./assets/build-loop.svg" alt="Ciclo animado de desenvolvimento de produtos" />
+
+</div>
+
 ## `$ ./what-i-build`
 
 <table>
