@@ -1,47 +1,12 @@
-<svg width="1200" height="410" viewBox="0 0 1200 410" fill="none" xmlns="http://www.w3.org/2000/svg">
-<defs>
-  <linearGradient id="bg"bg" x1="0" y1="0" x2="1200" y2="410">
-    <stop stop-color="#07111F"/><stop offset=".52" stop-color="#0D1730"/><stop offset="1" stop-color="#102338"/>
-  </linearGradient>
-  <linearGradient id="accent" x1="35" y1="0" x2="1165" y2="0">
-    <stop stop-color="#38BDF8"/><stop offset=".5" stop-color="#818CF8"/><stop offset="1" stop-color="#34D399"/>
-  </linearGradient>
-  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  <style>
-    .mono{font-family:'Courier New',monospace}.cursor{animation:blink 1s steps(1) infinite}.float{animation:float 4s ease-in-out infinite}
-    @keyframes blink{50%{opacity:0}}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
-  </style>
-</defs>
-<rect width="1200" height="410" rx="26" fill="url(#bg)"/>
-<rect x="1" y="1" width="1198" height="408" rx="25" stroke="url(#accent)" stroke-width="2" stroke-opacity=".8"/>
-<circle cx="45" cy="37" r="6" fill="#FF5F57"/><circle cx="66" cy="37" r="6" fill="#FEBC2E"/><circle cx="87" cy="37" r="6" fill="#28C840"/>
-<text x="600" y="43" text-anchor="middle" class="mono" font-size="14" fill="#64748B">maxsuel.dev — product engineering workspace</text>
-<path d="M22  0H1200" stroke="#24324A"/>
-<g class="float">
-  <rect x="54" y="89" width="405" height="260" rx="15" fill="#060C18" stroke="#334155"/>
-  <rect x="54" y="89" width="405" height="36" rx="15" fill="#111C2F"/><path d="M54 125H459" stroke="#334155"/>
-  <circle cx="78" cy="107" r="4" fill="#38BDF8"/><text x="94" y="112" class="mono" font-size="13" fill="#94A3B8">platform.ts</text>
-  <g class="mono" font-size="16">
-    <text x="78" y="158" fill="#64748B">01</text><text x="112" y="158" fill="#C084FC">const</text><text x="165" y="158" fill="#E2E8F0"> developer = {</text>
-    <text x="78" y="188" fill="#64748B">02</text><text x="128" y="188" fill="#7DD3FC">role:</text><text x="185" y="188" fill="#86EFAC">'Full Stack'</text><text x="296" y="188" fill="#E2E8F0">,</text>
-    <text x="78" y="218" fill="#64748B">03</text><text x="128" y="218" fill="#7DD3FC">builds:</text><text x="202" y="218" fill="#86EFAC">['SaaS','RPA','AI']</text><text x="389" y="218" fill="#E2E8F0">,</text>
-    <text x="78" y="248" fill="#64748B">04</text><text x="128" y="248" fill="#7DD3FC">stack:</text><text x="194" y="248" fill="#86EFAC">'TypeScript'</text><text x="306" y="248" fill="#E2E8F0">,</text>
-    <text x="78" y="278" fill="#64748B">05</text><text x="128" y="278" fill="#7DD3FC">mindset:</text><text x="218" y="278" fill="#86EFAC">'product'</text>
-    <text x="78" y="308" fill="#64748B">06</text><text x="112" y="308" fill="#E2E8F0">}</text><rect x="128" y="291" width="10" height="21" fill="#38BDF8" class="cursor"/>
-  </g>
+<svg width="1200" height="430" viewBox="0 0 1200 430" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#061426"/><stop offset=".55" stop-color="#111C46"/><stop offset="1" stop-color="#062A35"/></linearGradient><linearGradient id="a"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#818CF8"/><stop offset="1" stop-color="#34D399"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="4" result="x"/><feMerge><feMergeNode in="x"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>.m{font-family:'Courier New',monospace}.pulse{animation:p 2.4s ease-in-out infinite}.slide{animation:s 5s ease-in-out infinite}@keyframes p{50%{opacity:.35}}@keyframes s{50%{transform:translateY(-5px)}}</style></defs>
+<rect width="1200" height="430" rx="26" fill="url(#b)"/><rect x="1" y="1" width="1198" height="428" rx="25" fill="none" stroke="url(#a)" stroke-width="2"/>
+<circle cx="43" cy="35" r="6" fill="#FF5F57"/><circle cx="64" cy="35" r="6" fill="#FEBC2E"/><circle cx="85" cy="35" r="6" fill="#28C840"/><text x="600" y="41" text-anchor="middle" class="m" font-size="14" fill="#64748B">maxsuel@product-studio: ~/saas</text><path d="M20 60H1180" stroke="#334155"/>
+<text x="600" y="104" text-anchor="middle" class="m" font-size="35" font-weight="700" fill="#F8FAFC">MAXSUEL <tspan fill="#38BDF8">OLIVEIRA</tspan></text><text x="600" y="135" text-anchor="middle" class="m" font-size="17" fill="#A5B4FC">FULL STACK ENGINEER · SAAS FOUNDER · AI &amp; RPA</text>
+<g class="slide">
+<g transform="translate(42 168)"><rect width="348" height="205" rx="15" fill="#07111F" stroke="#10B981" stroke-width="2"/><rect width="348" height="43" rx="15" fill="#0A2130"/><circle cx="25" cy="22" r="10" fill="#10B981"/><text x="45" y="28" class="m" font-size="21" font-weight="700" fill="#F8FAFC">Zape<tspan fill="#34D399">Desk</tspan></text><text x="20" y="69" class="m" font-size="11" fill="#64748B">OMNICHANNEL SUPPORT</text><rect x="20" y="82" width="92" height="105" rx="7" fill="#0D2034"/><rect x="124" y="82" width="204" height="30" rx="7" fill="#102A3E"/><rect x="124" y="121" width="145" height="23" rx="12" fill="#164E63"/><rect x="181" y="153" width="147" height="24" rx="12" fill="#065F46"/><circle cx="43" cy="105" r="7" fill="#38BDF8"/><circle cx="43" cy="132" r="7" fill="#818CF8"/><circle cx="43" cy="159" r="7" fill="#34D399"/></g>
+<g transform="translate(426 168)"><rect width="348" height="205" rx="15" fill="#07111F" stroke="#8B5CF6" stroke-width="2"/><rect width="348" height="43" rx="15" fill="#17143A"/><circle cx="25" cy="22" r="10" fill="#8B5CF6"/><text x="45" y="28" class="m" font-size="21" font-weight="700" fill="#F8FAFC">Carbonato <tspan fill="#A78BFA">Chat</tspan></text><text x="20" y="69" class="m" font-size="11" fill="#64748B">AI AUTOMATION FLOWS</text><path d="M59 111H135M204 111H280M170 126V161" stroke="#818CF8" stroke-width="2" class="pulse"/><rect x="20" y="94" width="75" height="34" rx="8" fill="#064E3B"/><rect x="132" y="94" width="75" height="34" rx="8" fill="#312E81"/><rect x="253" y="94" width="75" height="34" rx="8" fill="#164E63"/><rect x="132" y="153" width="75" height="34" rx="8" fill="#4C1D95"/></g>
+<g transform="translate(810 168)"><rect width="348" height="205" rx="15" fill="#07111F" stroke="#22D3EE" stroke-width="2"/><rect width="348" height="43" rx="15" fill="#09253A"/><circle cx="25" cy="22" r="10" fill="#22D3EE"/><text x="45" y="28" class="m" font-size="21" font-weight="700" fill="#F8FAFC">Liga<tspan fill="#38BDF8">AI ERP</tspan></text><text x="20" y="69" class="m" font-size="11" fill="#64748B">BUSINESS MANAGEMENT</text><rect x="20" y="83" width="91" height="44" rx="7" fill="#064E3B"/><rect x="128" y="83" width="91" height="44" rx="7" fill="#172554"/><rect x="237" y="83" width="91" height="44" rx="7" fill="#3B1764"/><path d="M28 177L72 153L112 164L157 135L198 149L244 119L318 142" fill="none" stroke="#38BDF8" stroke-width="3"/><g fill="#38BDF8"><circle cx="72" cy="153" r="4"/><circle cx="157" cy="135" r="4"/><circle cx="244" cy="119" r="4"/></g></g>
 </g>
-<g class="mono">
-  <text x="520" y="112" font-size="18" fill="#34D399">maxsuel@build</text><text x="670" y="112" font-size="18" fill="#E2E8F0">:~$ npm run introduce</text>
-  <text x="520" y="164" font-size="34" font-weight="700" fill="#F8FAFC">MAXSUEL OLIVEIRA</text>
-  <text x="520" y="201" font-size="20" fill="#A5B4FC">SENIOR FULL STACK SOFTWARE ENGINEER</text>
-  <text x="520" y="247" font-size="18" fill="#94A3B8">I design and build digital products</text>
-  <text x="520" y="277" font-size="18" fill="#94A3B8">from architecture to production.</text>
-  <g font-size="16">
-    <rect x="520" y="305" width="78" height="31" rx="7" fill="#0C4A6E"/><text x="536" y="326" fill="#BAE6FD">SAAS</text>
-    <rect x="609" y="305" width="67" height="31" rx="7" fill="#312E81"/><text x="629" y="326" fill="#C7D2FE">RPA</text>
-    <rect x="687" y="305" width="56" height="31" rx="7" fill="#064E3B"/><text x="706" y="326" fill="#A7F3D0">AI</text>
-    <rect x="754" y="305" width="117" height="31" rx="7" fill="#1E293B"/><text x="770" y="326" fill="#E2E8F0">FULL STACK</text>
-  </g>
-  <text x="520" y="371" font-size="17" fill="#38BDF8">➜</text><text x="550" y="371" font-size="17" fill="#E2E8F0">building useful software_</text>
-</g>
+<text x="600" y="405" text-anchor="middle" class="m" font-size="15" fill="#94A3B8">IDEAS → ARCHITECTURE → CODE → PRODUCTS → IMPACT <tspan fill="#34D399">█</tspan></text>
 </svg>
