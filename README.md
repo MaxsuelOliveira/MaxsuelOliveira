@@ -116,20 +116,40 @@ product/
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Agents IA](https://github.com/MaxsuelOliveira/LANDINGPAGE-AGENTS-IA)
+### 🛒 [Pokedex Shop](https://github.com/MaxsuelOliveira/pokedex-shop)
 
-Apresentação de soluções inteligentes voltadas à automação de operações e atendimento.
+Marketplace demonstrativo com catálogo remoto, autenticação por perfis, carrinho persistente e painel administrativo.
 
-`AI Agents` `Automation` `Web`
+`React` `Vite` `Tailwind CSS` `PWA`
 
 </td>
 <td width="50%" valign="top">
 
-### ✅ [Tarefas Agora](https://github.com/MaxsuelOliveira/app-tarefas-agora)
+### ₿ [Crypto Pulse](https://github.com/MaxsuelOliveira/web-monitor-criptomoedas)
 
-Aplicação de produtividade criada com foco em experiência simples e execução rápida.
+Dashboard PWA para cotações de criptomoedas, favoritos e alertas locais.
 
-`Productivity` `Application` `UX`
+`JavaScript` `PWA` `CoinGecko` `Dashboard`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ [Monitor CPU](https://github.com/MaxsuelOliveira/web-monitor-cpu)
+
+Monitoramento local de sistema com frontend web, servidor Python e suporte a execução no Windows.
+
+`Python` `JavaScript` `Windows` `Monitoring`
+
+</td>
+<td width="50%" valign="top">
+
+### ⏱️ [Meu Pomodoro](https://github.com/MaxsuelOliveira/app-meu-pomodoro)
+
+Aplicativo móvel de produtividade com presets, histórico, SQLite e experiência offline.
+
+`React Native` `Expo` `TypeScript` `SQLite`
 
 </td>
 </tr>
@@ -138,18 +158,18 @@ Aplicação de produtividade criada com foco em experiência simples e execuçã
 
 ### 🎧 [Audiobook Interativo](https://github.com/MaxsuelOliveira/web-audiobook-interativo)
 
-Experiência web que combina interface, áudio e consumo interativo de conteúdo.
+Player web de audiobooks com consumo de fontes abertas e progresso salvo localmente.
 
-`Interactive Web` `Audio` `Frontend`
+`JavaScript` `Audio` `Internet Archive` `LibriVox`
 
 </td>
 <td width="50%" valign="top">
 
-### 📅 [Minha Agenda](https://github.com/MaxsuelOliveira/app-minha-agenda)
+### 🌦️ [Weather Widget](https://github.com/MaxsuelOliveira/web-weather)
 
-Organização de compromissos e rotinas em uma interface prática e objetiva.
+Widget de previsão do tempo com CEP, geolocalização e integração com Open-Meteo.
 
-`Scheduling` `Product` `Web App`
+`JavaScript` `Open-Meteo` `ViaCEP` `Geolocation`
 
 </td>
 </tr>
@@ -157,8 +177,8 @@ Organização de compromissos e rotinas em uma interface prática e objetiva.
 
 <div align="center">
 
-[![Agents IA](https://github-readme-stats.vercel.app/api/pin/?username=MaxsuelOliveira&repo=LANDINGPAGE-AGENTS-IA&theme=github_dark&hide_border=true&title_color=38BDF8&icon_color=34D399)](https://github.com/MaxsuelOliveira/LANDINGPAGE-AGENTS-IA)
-[![Audiobook](https://github-readme-stats.vercel.app/api/pin/?username=MaxsuelOliveira&repo=web-audiobook-interativo&theme=github_dark&hide_border=true&title_color=38BDF8&icon_color=34D399)](https://github.com/MaxsuelOliveira/web-audiobook-interativo)
+[![Pokedex Shop](https://github-readme-stats.vercel.app/api/pin/?username=MaxsuelOliveira&repo=pokedex-shop&theme=github_dark&hide_border=true&title_color=38BDF8&icon_color=34D399)](https://github.com/MaxsuelOliveira/pokedex-shop)
+[![Crypto Pulse](https://github-readme-stats.vercel.app/api/pin/?username=MaxsuelOliveira&repo=web-monitor-criptomoedas&theme=github_dark&hide_border=true&title_color=38BDF8&icon_color=34D399)](https://github.com/MaxsuelOliveira/web-monitor-criptomoedas)
 
 </div>
 
