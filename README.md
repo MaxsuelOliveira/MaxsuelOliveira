@@ -1,31 +1,19 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner.png" />
     <img src="assets/banner.gif" width="100%" alt="Maxsuel Oliveira — Full Stack Developer e SaaS Builder" />
-  </picture>
 </p>
 
 ## Projetos em produção
 
 <a href="https://zapedesk.com.br">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/zapedesk.png" />
     <img src="assets/zapedesk.gif" width="100%" alt="ZapeDesk — demonstração do site em um mockup 3D. Atendimento no WhatsApp com automações, CRM e inteligência artificial. Abrir projeto." />
-  </picture>
 </a>
 
 <a href="https://carbonatochat.com.br">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/carbonatochat.png" />
     <img src="assets/carbonatochat.gif" width="100%" alt="CarbonatoChat — demonstração do site em um mockup 3D. Atendimento no Instagram com chatbot e organização das conversas. Abrir projeto." />
-  </picture>
 </a>
 
 <a href="https://ligaaierp.lvempreendimentosbahia.com.br/">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/ligaai-erp.png" />
     <img src="assets/ligaai-erp.gif" width="100%" alt="LigaAI ERP — demonstração do site em um mockup 3D. Integrações entre ERP, APIs, automações e ferramentas de IA. Abrir projeto." />
-  </picture>
 </a>
 
 ## Código em movimento
